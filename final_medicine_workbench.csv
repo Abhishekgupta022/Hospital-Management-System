@@ -1,0 +1,929 @@
+med_id,med_name,med_type,med_descrip,med_price
+10015,Ciprofloxacin,lohexol,ciprofloxacin-263,1075
+10123,"Chlorhexidine Gluconate + Isopropyl alcohol","Non depolarizing muscle relaxants",chlorhexidine-gluconate-isopropyl-alcohol-239,809
+10133,"Bromelain + Trypsin","Topical salicylic preparation",bromelain-trypsin-148,354
+10138,"Ferric Pyrophosphate Citrate","Topical Antifungal preparations",ferric-pyrophosphate-citrate-1508,1480
+10442,Ciprofibrate,lodixanol,ciprofibrate-1884,1071
+10474,"Cetrorelix Acetate","Penicillinase-resistant penicillins",cetrorelix-acetate-235,500
+10613,"Cyproterone Acetate + Ethinyl Estradiol","Respiratory corticosteroids",cyproterone-acetate-ethinyl-estradiol-324,1356
+10644,"Articaine Hydrochloride + Epinephrine","Butyrophenone drugs",articaine-hydrochloride-epinephrine-83,1517
+10811,Carbamazepine,"Angiotensin-converting enzyme (ACE) inhibitors",carbamazepine-196,1235
+10894,"Ethinyl Estradiol + Gestodene","Oral Iron preparations",ethinyl-estradiol-gestodene-1179,978
+10904,"Natural medicine for diabetes","Topical Analgesics",natural-medicine-for-diabetes-1693,641
+11062,"Chlorhexidine Hydrochloride + Cetrimide","4-Quinolone preparations",chlorhexidine-hydrochloride-cetrimide-242,1318
+11098,"Ciclesonide (Nasal Spray)","Fourth generation Cephalosporins",ciclesonide-nasal-spray-254,1136
+11336,"Amlodipine Besilate",Enzymes,amlodipine-besilate-62,361
+11365,"Sana + Revand Chini + Neem + Chirata + Tulsi",Decongestant,sana-revand-chini-neem-chirata-tulsi-1728,435
+11659,"Marham Kharish","Proton Pump Inhibitor",marham-kharish-1692,430
+11683,"Levofloxacin Hemihydrate",levofloxacin-hemihydrate-680,"4-Quinolone preparations",565
+11934,"Glucosamine Hydrochloride","Alpha adrenoceptor blocking drugs",glucosamine-hydrochloride-529,550
+12086,"Carboxymethylcellulose Sodium + Glycerin","Respiratory viral infections (Influenza)",carboxymethylcellulose-sodium-glycerin-206,528
+12271,"Doxepin (Topical)","Drugs for Dry eyes",doxepin-topical-391,1279
+12363,Bilastine,"Drugs for Haemolytic Hypoplastic & Renal Anemia",bilastine-1457,856
+12368,"Vitamin D3 + Vitamin K1 + Vitamin K2","Specific mineral preparations",vitamin-d3-vitamin-k1-vitamin-k2-1672,524
+12399,"Aminocaproic acid","Potassium-sparing diuretics & Aldosterone antagonists",aminocaproic-acid-56,1399
+12449,"Monjistha [Rubia cordifolia]","Anticholinergics (antimuscarinics)/ Anti-spasmodics",monjistha-rubia-cordifolia-1750,404
+12486,"Caprylic + Capric Triglyceride","Alpha adrenoceptor blocking drugs",caprylic-capric-triglyceride-247,702
+12715,"Losartan Potassium + Hydrochlorothiazide",losartan-potassium-hydrochlorothiazide-550,"Combined antihypertensive preparations",875
+13087,"Bimatoprost + Timolol","Combined preparations: Inhibiting bone resorption",bimatoprost-timolol-1301,964
+13132,"Azelastine Hydrochloride + Fluticasone Propionate","Topical retinoid and related preparations",azelastine-hydrochloride-fluticasone-propionate-1300,994
+13136,"Bromocriptine Mesylate","Phenothiazine related drugs",bromocriptine-mesylate-149,8983
+13153,Fructose,"Neurodegenerative Disease Drugs / Neuromuscular Disorder Drugs",fructose-504,1495
+13194,"Steviol Glycoside","Vitamin in bone formation",steviol-glycoside-1820,382
+13247,"Herbal gastric preparation","Drugs used in chronic kidney dialysis",herbal-gastric-preparation-1688,301
+13291,"Eucalyptol+ Menthol + Thymol","Topical retinoid and related preparations",eucalyptol-menthol-thymol-1322,524
+13507,"Fluocinolone Acetonide + Neomycin Sulfate",Barbiturates,fluocinolone-acetonide-neomycin-sulfate-479,524
+13658,Alprazolam,"Combination Oral hypoglycemic preparations",alprazolam-18,211
+13871,"Acidic component [HCO3 Hemodialysis Solution]","Benzylpenicillin & Phenoxymethyl penicillin",acidic-component-hco3-hemodialysis-solution-177,361
+13885,"Estradiol Valerate","Vitamin-C Preparations",estradiol-valerate-1832,1350
+13925,"Atomoxetine Hydrochloride","Anti-diarrhoeal Antiprotozoal",atomoxetine-hydrochloride-91,490
+13943,"Aluminium Chloride Hexahydrate","Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors",aluminium-chloride-hexahydrate-45,489
+14095,Efavirenz,"Ophthalmic Steroid preparations",efavirenz-404,591
+14293,"Calcium Carbonate","Peripheral Vasodilator drugs: Intermittent Claudication",calcium-carbonate-173,1054
+14318,"Ispaghula [Psyllium] Husk",ispaghula-psyllium-husk-1502,"Bulk-forming laxatives",1064
+14373,"Amlodipine Besilate + Telmisartan","Combined bronchodilators",amlodipine-besilate-telmisartan-66,741
+14603,Proanthocyanidins,"Drugs for Irritable Bowel Syndrome",proanthocyanidins-1539,408
+14664,"Amalaki Rasayana","lopanoic Acid",amalaki-rasayana-1743,352
+14713,Adenosine,"Other Anti-protozoals",adenosine-23,1396
+14906,"Alendronic acid",Pyrrolopyrimidines,alendronic-acid-30,787
+15262,"Glucose 19% + Vamin 18 Novum + Intralipid 20%",Anti-hypertensive,glucose-19-vamin-18-novum-intralipid-20-1889,785
+15425,Amikacin,"Short Acting Insulin",amikacin-54,805
+15433,"Lutein + Zeaxanthin","Proton Pump Inhibitor",lutein-zeaxanthin-1537,227
+15504,"Nigella Sativa [Black Seed Oil]","Dithranol & combined preparations",nigella-sativa-black-seed-oil-1525,644
+15785,"Antazoline + Tetryzoline","Other drugs used for peptic ulcer disease",antazoline-tetryzoline-79,63
+15803,"Lidocaine + Prilocaine",lidocaine-prilocaine-684,"Local & Surface anesthesia",644
+16016,"Cetirizine Hydrochloride","Other antibiotic",cetirizine-hydrochloride-234,1252
+16156,"Darbepoetin Alfa","Other genito-urinary preparations",darbepoetin-alfa-1376,922
+16309,"Eperisone Hydrochloride","Oral preparations",eperisone-hydrochloride-417,503
+16348,"Betamethasone + Clotrimazole + Gentamicin","Topical Antihistamines",betamethasone-clotrimazole-gentamicin-125,271
+16426,"Jadwar [Denudatum, Saffron, Henbane]","Synthetic analogue of ADH",jadwar-denudatum-saffron-henbane-1720,516
+16525,"Follitropin Alfa + Lutropin Alfa","Drugs for Dementia",follitropin-alfa-lutropin-alfa-1595,764
+16565,Acitretin,"Broad spectrum penicillins",acitretin-25,265
+16763,"Diphenhydramine + Levomenthol","Drugs affecting exocrine secretions",diphenhydramine-levomenthol-1463,862
+17088,"Levosalbutamol (Oral)",levosalbutamol-oral-683,"Short-acting selective & ÃƒÅ½Ã‚Â²2-adrenoceptor stimulants",594
+17114,"Calcium Carbonate [Eggshell Source] + Vitamin D3","Other drugs for migraine",calcium-carbonate-eggshell-source-vitamin-d3-1548,2718
+17206,"Acyclovir (Injection)","Eye Anti-Infectives & Antiseptics",acyclovir-injection-7,10
+17288,"Ciclesonide (Inhalation Aerosol)","First generation Cephalosporins",ciclesonide-inhalation-aerosol-1840,632
+17319,"Calcium Acetate","Drugs for muscular energy metabolism",calcium-acetate-171,968
+17464,Furosemide,"Atypical neuroleptic drugs",furosemide-505,1487
+17702,"Ferrous Fumarate + Folic acid","Miscellaneous topical agents",ferrous-fumarate-folic-acid-463,567
+17743,"Conjugated Estrogen + Bazedoxifene",Glucocorticoids,conjugated-estrogen-bazedoxifene-1877,962
+17748,"Irinotecan Hydrochloride",irinotecan-hydrochloride-658,"Cytotoxic Chemotherapy",1000
+17788,"Brimonidine Tartrate + Timolol Maleate","Topical antibiotics for Acne",brimonidine-tartrate-timolol-maleate-140,637
+17790,Brigatinib,"Oral retinoids for Acne",brigatinib-1641,819
+17858,"Dapagliflozin Propanediol","Drugs used in chronic kidney dialysis",dapagliflozin-propanediol-339,862
+17922,"Betamethasone + Clotrimazole","Topical Local Anesthetics",betamethasone-clotrimazole-127,662
+17938,"Levobupivacaine Hydrochloride",levobupivacaine-hydrochloride-676,"Regional anesthesia",1299
+17974,"Levodopa + Carbidopa (CR tablet)",levodopa-carbidopa-cr-tablet-1827,"Antiparkinson drugs",680
+18221,"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone","Thiazolidinedione Group",aluminium-hydroxide-magnesium-hydroxide-simethicone-20,367
+18263,"Calendula Officinalis [Marigold]","Female Sex hormones",calendula-officinalis-marigold-1756,95
+18308,Fluconazole,"Crystal violet/ Gentian violet preparations",fluconazole-474,1002
+18320,"COVID Vaccine","Painkiller Muscle Relaxant",covid-vaccine-1656,1129
+18368,Eszopiclone,"Topical Local Anesthetics",eszopiclone-437,897
+18380,Desloratadine,"Drugs used in Myasthenia Gravis",desloratadine-329,1178
+18514,"Bisoprolol Hemifumarate","Dressing products for wounds/burns/ulcers",bisoprolol-hemifumarate-135,113
+18580,Cephradine,"Long acting penicillin",cephradine-232,1372
+18613,"Fermented soy [Lactobacillus Delbrueckii]","Pulmonary surfactants",fermented-soy-lactobacillus-delbrueckii-1536,396
+18853,Cinacalcet,Immunomodulator,cinacalcet-258,827
+18934,"Mudir [Aloe, Saffron, Ferrus sulphate]","Candida infections",mudir-aloe-saffron-ferrus-sulphate-1725,488
+18979,"Irbesartan + Hydrochlorothiazide",irbesartan-hydrochlorothiazide-565,"Combined antihypertensive preparations",594
+18980,"Probiotic Combination [2 Billion]","Ulcerative Colitis",probiotic-combination-2-billion-2070,978
+19293,Aprepitant,"Phlebotonic & Vascular protecting preparation",aprepitant-74,715
+19539,"Diltiazem Hydrochloride (SR tablet)","Cholagogues, Cholelitholytics & Hepatic Protectors",diltiazem-hydrochloride-sr-tablet-1839,1369
+19646,Baclofen,"Ophthalmic Anti-allergic preparations",baclofen-105,521
+19678,"Bosentan Monohydrate","Acne treatment preparations",bosentan-monohydrate-138,442
+19703,Levosalbutamol,levosalbutamol-1319,"Short-acting selective & ÃƒÅ½Ã‚Â²2-adrenoceptor stimulants",912
+19739,"Dexmedetomidine Hydrochloride","Compound steroidal preparations",dexmedetomidine-hydrochloride-1403,1111
+19815,"Bilberry fruit [Vaccinium myrtillus L]","Hepatic viral infections (Hepatitis B)",bilberry-fruit-vaccinium-myrtillus-l-1526,1128
+19816,"Pumpkin [Cucurbita pepo]","Enema & bowel cleansing solution",pumpkin-cucurbita-pepo-1988,90
+19838,"Benzathine Penicillin","Inhibiting bone resorption",benzathine-penicillin-110,925
+19879,"White Damar + Acacia + Bole Rubra","Oral nutritional preparations",white-damar-acacia-bole-rubra-1704,603
+19886,Gemfibrozil,"Cerebral vasodilator & Neurosensory oxygenator drugs",gemfibrozil-1168,903
+20110,"Erythromycin (Lotion)","Specific combined vitamin preparations",erythromycin-lotion-428,1198
+20116,"Chlorpheniramine Maleate","Benzylpenicillin & Phenoxymethyl penicillin",chlorpheniramine-maleate-249,1075
+20328,Cefdinir,"Vaso Protective",cefdinir-211,1484
+20425,Echinacea,"Methyl xanthine derivatives",echinacea-1512,669
+20467,"Enalapril Maleate","Aural Anti-bacterial preparations",enalapril-maleate-409,795
+20504,"Evening primrose oil","Cough suppressant",evening-primrose-oil-921,777
+20722,"DevilÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Cotton + Ashoka bark + Aswagandha","Angiotensin-converting enzyme (ACE) inhibitors",devils-cotton-ashoka-bark-aswagandha-1718,1298
+20729,"Clioquinol + Flumetasone Pivalate","Gonadotropin-releasing hormone (GnRH) antagonist",clioquinol-flumetasone-pivalate-276,1294
+20824,"Probiotic Combination [2.3 Billion]","Abdominal gas adsorbent preparations",probiotic-combination-23-billion-2069,604
+20983,"Ledipasvir + Sofosbuvir",ledipasvir-sofosbuvir-667,"Hepatic viral infections (Hepatitis C)",550
+21029,"Acacia + Dates + Asparagus + Edible Pine",Anti-cholinesterases,acacia-dates-asparagus-edible-pine-1715,943
+21049,Adalimumab,Anaphylaxis,adalimumab-31,67
+21377,Abemaciclib,"Anti-histamine & decongestant",abemaciclib-2043,641
+21442,"Follitropin Beta","Drugs used in tremor, tics & related disorder",follitropin-beta-1177,680
+21521,"Casirivimab + Imdevimab","Protein kinase inhibitor",casirivimab-imdevimab-2033,969
+21558,Levetiracetam,levetiracetam-675,"Adjunct anti-epileptic drugs",1327
+21683,"Calcium Carbonate [Coral source] + Vitamin D3","Ergot Alkaloids",calcium-carbonate-coral-source-vitamin-d3-1200,5810
+21716,"Atorvastatin + Ezetimibe","Anti-diarrhoeal Enzyme",atorvastatin-ezetimibe-2049,250
+21723,"Chirata [Swertia Chirata]","Oral Contraceptive preparations",chirata-swertia-chirata-1612,883
+21745,"Deferoxamine Mesylate","Urinary Alkalinizing Agent",deferoxamine-mesylate-1465,611
+21773,Lenograstim,lenograstim-670,"Haematopoietic Agents",1068
+21882,"Dexamethasone + Neomycin Sulphate + Polymyxin B Sulphate","Prostaglandin analogues",dexamethasone-neomycin-sulphate-polymyxin-b-sulphate-340,1482
+22010,"Bromhexine Hydrochloride","Sunblock Preparation",bromhexine-hydrochloride-145,992
+22024,Adapalene,Anthelmintic,adapalene-14,1171
+22266,Cabergoline,"Anti-platelet drugs",cabergoline-1434,1090
+22460,"Esomeprazole (MUPS tablet)","Supplements & adjuvant therapy",esomeprazole-mups-tablet-1669,785
+22555,Epalrestat,"Irrigation during various surgical procedures",epalrestat-416,1367
+22859,Alphanate,Biguanides,alphanate-1167,350
+22864,"Ethinyl Estradiol + Lynestrenol (0.0375 mg)","Drugs for Megaloblastic Anemia",ethinyl-estradiol-lynestrenol-00375-mg-442,715
+22919,"Lercanidipine Hydrochloride",lercanidipine-hydrochloride-671,"Calcium-channel blockers",785
+22943,Lapatinib,lapatinib-664,"Cytotoxic Chemotherapy",1155
+22971,Cefotaxime,"Anti-fibrinolytic drugs",cefotaxime-218,679
+23109,"Almond + Coconut + Edible Pine + Salep","Benzodiazepine antagonist",almond-coconut-edible-pine-salep-1716,929
+23257,Captopril,"Alpha and Beta-adrenergic agonist",captopril-195,1245
+23630,"Alogliptin Benzoate","Anti adrenergic agent (Beta blockers)",alogliptin-benzoate-1871,1040
+23645,"Ethyl Butylacetylaminopropionate","Hormone in bone formation by stimulation",ethyl-butylacetylaminopropionate-1651,1421
+23932,"Amphotericin B","Drugs for Dementia",amphotericin-b-1239,6558
+23937,Flunarizine,"Oral Hormonal preparations for Acne",flunarizine-477,1230
+23939,"Probiotic Combination [4 Billion]","Bulk-forming laxatives",probiotic-combination-4-billion-1498,780
+23972,"Calcium Dobesilate + Lidocaine + Dexamethasone","SSRIs & related anti-depressant drugs",calcium-dobesilate-lidocaine-dexamethasone-1459,3564
+24048,"Cloxacillin Sodium","Combination Oral hypoglycemic preparations",cloxacillin-sodium-292,881
+24068,"Collagen II & GAGs","Drugs for Growth failure",collagen-ii-gags-1549,648
+24228,Gadodiamide,"Vasodilator antihypertensive drugs",gadodiamide-511,1287
+24238,"Calcium Orotate","Antiparkinson drugs",calcium-orotate-186,5046
+24381,"Licorice + Yellow Silk Cotton + Mastic tree","Anti-manic drugs",licorice-yellow-silk-cotton-mastic-tree-1732,2182
+24465,"Calcipotriol Monohydrate",Statins,calcipotriol-monohydrate-164,2204
+24596,"Chebulic Myrobalan + Barberry","Male Sex hormones (Androgens)",chebulic-myrobalan-barberry-1702,193
+24676,Azathioprine,"Proton Pump Inhibitor",azathioprine-96,191
+24751,"Cefaclor Monohydrate","Supportive Care Therapy",cefaclor-monohydrate-209,889
+24756,"Ciprofloxacin + Hydrocortisone Acetate",loversol,ciprofloxacin-hydrocortisone-acetate-265,729
+24775,Cyanocobalamin,"Antihistamines anti-allergies & hypo-sensitisation",cyanocobalamin-311,1318
+24820,Gemcitabine,Statins,gemcitabine-518,577
+24891,Cyclosporine,"Long-acting selective ÃƒÅ½Ã‚Â²-adrenoceptor stimulants",cyclosporine-1194,1052
+24971,"Atracurium Besilate",Antacids,atracurium-besilate-93,169
+24999,"Empagliflozin + Linagliptin","Plasma expanders",empagliflozin-linagliptin-2046,1115
+25018,"Cefpodoxime Proxetil","Haemostatic drugs",cefpodoxime-proxetil-220,1064
+25087,"Alverine Citrate","GLP-1 receptor agonists",alverine-citrate-49,165
+25355,"Apis mellifica + Gelsemium sempervirens + Gnaphalium","H2 receptor antagonist",apis-mellifica-gelsemium-sempervirens-gnaphalium-1895,825
+25705,"Estriol (Oral)","Vitamin-D preparations",estriol-oral-435,620
+25713,Gadoversetamide,"Adenosine triphosphate-citrate lyase (ACL) inhibitor",gadoversetamide-1414,1468
+25746,"Emblica officinalis + Piper longum","Combined cough suppressants",emblica-officinalis-piper-longum-1517,808
+25774,Crisaborole,Enzymes,crisaborole-1803,536
+25892,"Gentian Violet","Atypical anti-depressant drugs",gentian-violet-521,1212
+25901,"Benzyl Benzoate","Electrolytes preparations",benzyl-benzoate-115,98
+25996,Itraconazole,itraconazole-643,"Drugs for subcutaneous and mycoses",632
+25997,"Econazole Nitrate + Triamcinolone Acetonide","Other ophthalmic preparations",econazole-nitrate-triamcinolone-acetonide-403,1180
+26009,"Cyclizine Hydrochloride",Bronchodilator,cyclizine-hydrochloride-2057,1461
+26025,Etanercept,"Beclomethasone & Combined Preparations",etanercept-1631,933
+26172,Balarista,"Tyrosine Kinase Inhibitor",balarista-1619,249
+26291,"Bitter Melon [Korola]","Herpes simplex & Varicella-zoster virus infections",bitter-melon-korola-1966,601
+26375,"Dextran + Hypromellose","BPH/ Urinary retention/ Urinary incontinence",dextran-hypromellose-345,1327
+26383,Capecitabine,"Alpha adrenoceptor blocking drugs",capecitabine-193,875
+26483,Dexketoprofen,"H2 receptor antagonist",dexketoprofen-343,966
+26588,"Calcium Lactate Gluconate + Calcium Carbonate + Vitamin D3","Drugs used in meniere's diseases",calcium-lactate-gluconate-calcium-carbonate-vitamin-d3-1201,8386
+26896,Finerenone,"Zinc & Combined preparations",finerenone-2055,1052
+26952,"Ethinyl Estradiol + Drospirenone + Levomefolate","Iron, Vitamin & Mineral Combined preparation",ethinyl-estradiol-drospirenone-levomefolate-1888,1337
+26954,"Gentamicin + Hydrocortisone Acetate","Peripheral Vasodilator drugs: Intermittent Claudication",gentamicin-hydrocortisone-acetate-520,937
+27022,"Iron Polymaltose Complex + Vitamin B Complex + Zinc",iron-polymaltose-complex-vitamin-b-complex-zinc-631,"Iron & Vitamin Combined preparations",797
+27128,"Panax Ginseng","Anti-gallstones drugs: Bile Acids",panax-ginseng-1514,935
+27162,"Clindamycin + Benzoyl peroxide","Emergency Contraceptive Pill",clindamycin-benzoyl-peroxide-274,1408
+27172,Fenofibrate,"Medicated Shampoos",fenofibrate-454,545
+27202,"Gentamicin Sulfate (Ophthalmic)","Ergot Alkaloids",gentamicin-sulfate-ophthalmic-1384,690
+27333,"Colistimethate Sodium","Medium Acting Insulin",colistimethate-sodium-1429,1495
+27363,"Fluconazole (Ophthalmic)","Iodine compounds (Anti-septic Preparations)",fluconazole-ophthalmic-475,1039
+27506,"Dequalinium Chloride","Drugs used in Cerebral Palsy",dequalinium-chloride-1664,1092
+27655,Esomeprazole,"Oral nutritional preparations",esomeprazole-433,590
+27664,"Iron + Folic acid + Vitamin B complex + Vitamin C",iron-folic-acid-vitamin-b-complex-vitamin-c-628,"Iron & Vitamin Combined preparations",524
+27689,Bivalirudin,"Crystal violet/ Gentian violet preparations",bivalirudin-1475,744
+27802,"Acyclovir (Ophthalmic)","First generation Cephalosporins",acyclovir-ophthalmic-13,99
+27857,Cytarabine,"Short-acting selective & ÃƒÅ½Ã‚Â²2-adrenoceptor stimulants",cytarabine-315,872
+27932,"Amlodipine Besilate + Atorvastatin","Anticholinergic bronchodilators",amlodipine-besilate-atorvastatin-68,736
+27997,"Tila Jadeed [Madar, Mace arillus, Nutmeg nut]","Anti-oxidant Multivitamin preparations",tila-jadeed-madar-mace-arillus-nutmeg-nut-1724,52
+28012,"Budesonide (Nasal Spray)",Barbiturates,budesonide-nasal-spray-1652,5135
+28048,Eluxadoline,"Electrolytes preparations",eluxadoline-1469,578
+28478,"Saccharomyces Boulardii","Parasiticidal preparations",saccharomyces-boulardii-1787,947
+28515,Axitinib,"Motility Stimulants",axitinib-1383,803
+28681,Cilostazol,"Herbal and Nutraceuticals",cilostazol-256,1293
+28698,"Fluticasone Furoate","Calcium-channel blockers",fluticasone-furoate-491,965
+28737,Capsaicin,"Alpha and Beta-adrenergic agonist",capsaicin-194,942
+28741,"Iron Sucrose Injection [Elemental Iron]",iron-sucrose-injection-elemental-iron-406,"Parenteral Iron Preparations",1426
+28773,Arjunarista,"Nitrous Oxide 98 % Gas",arjunarista-1744,679
+28799,Acalabrutinib,"Non-sedating antihistamines",acalabrutinib-2040,1084
+28885,"Jamani Arka","Irrigation Solution used in Urological Surgery",jamani-arka-1749,943
+28908,Diazepam,Anti-dyspeptic/Carminatives,diazepam-355,1247
+29132,"Lactobacillus Rhamnosus GG",lactobacillus-rhamnosus-gg-2008,,577
+29236,"Azithromycin Dihydrate","Other scalp preparations",azithromycin-dihydrate-100,495
+29336,Dienogest,"Proton Pump Inhibitor",dienogest-362,671
+29348,"Benzydamine Hydrochloride","Vitamin-E Preparations",benzydamine-hydrochloride-1432,722
+29466,Carboplatin,"Combined antihypertensive preparations",carboplatin-204,771
+29622,"Clotrimazole (Eye ointment)","Respiratory stimulants: analeptics",clotrimazole-eye-ointment-287,786
+29739,Cabazitaxel,Anti-coagulants,cabazitaxel-1286,6789
+29936,"Ivermectin (Tablet)",ivermectin-tablet-644,Anthelmintic,612
+30121,"Aluminium Oxide + Magnesium Trisilicate","Combination Insulin",aluminium-oxide-magnesium-trisilicate-1297,973
+30367,"Brimonidine Tartrate","Topical antibiotic & retinoid preparations",brimonidine-tartrate-139,662
+30406,"Eltrombopag Olamine","Vitamin-K Preparations",eltrombopag-olamine-414,1459
+30426,"Levocetirizine Dihydrochloride",levocetirizine-dihydrochloride-678,"Non-sedating antihistamines",1494
+30653,"Cholera Saline","Ear Anti-Infectives & Antiseptics",cholera-saline-905,1190
+30720,"Valerian Root","Hyperkalaemia Products",valerian-root-1681,795
+30734,"Carbonyl Iron + Folic Acid","Calcium-channel blockers",carbonyl-iron-folic-acid-244,901
+30770,"Bisoprolol Fumarate + Amlodipine Besilate","Bleaching and Disinfectants",bisoprolol-fumarate-amlodipine-besilate-1433,148
+30781,Etoposide,"Topical antibiotic & retinoid preparations",etoposide-456,1097
+30790,"Butoconazole Nitrate","Angiotensin-ll receptor blocker",butoconazole-nitrate-1397,5782
+30902,"Barium Sulfate","Ophthalmic Non-Steroid drugs",barium-sulfate-107,238
+30907,Cyclophosphamide,"Leukotriene receptor antagonists",cyclophosphamide-1204,1266
+30966,Anidulafungin,"Motility stimulants/Dopamine antagonist",anidulafungin-1798,197
+31017,"Copper Peptide + Procapil + Niacinamide + Biotin + L-Arginine","Locally acting Skeletal Muscle Relaxants",copper-peptide-procapil-niacinamide-biotin-l-arginine-1873,800
+31031,"Glycopyrronium Bromide (Oral solution)","Potassium-sparing diuretics",glycopyrronium-bromide-oral-solution-1836,1418
+31056,"Lidocaine + Adrenaline",lidocaine-adrenaline-33,"Local & Surface anesthesia",1149
+31108,"Garlic Oil","Non-steroidal Anti-inflammatory Drugs (NSAIDs)",garlic-oil-1412,627
+31111,"Cranberry [Vaccinium macrocarpon]","Drugs for menopausal symptoms: Hormone replacement therapy",cranberry-vaccinium-macrocarpon-1533,543
+31173,"Doxylamine Succinate","Ocular perioperative drugs",doxylamine-succinate-395,743
+31183,Atenolol,"Stool softener",atenolol-88,527
+31495,"Ethinyl Estradiol + Desogestrel (0.02 mg)","Fluocinolone & Combined Preparations",ethinyl-estradiol-desogestrel-002-mg-1805,819
+31775,Rehmin,"Anti-infective & Anesthetic combined preparations",rehmin-1707,114
+31799,"Candesartan Cilexetil + Hydrochlorothiazide",Vasoconstrictor/Venotonic,candesartan-cilexetil-hydrochlorothiazide-192,1392
+31966,Dinar,"Angiotensin-ll receptor blocker",dinar-1708,1185
+32081,Clascoterone,"Nitrous Oxide 98 % Gas",clascoterone-1845,1139
+32096,"Levomilnacipran Hydrochloride",levomilnacipran-hydrochloride-1881,"Serotonin-norepinephrine reuptake inhibitor (SNRI)",1410
+32174,Aspirin,"Hair Growth Inhibitor",aspirin-85,4110
+32267,"Abacavir + Lamivudine + Zidovudine",Anaphylaxis,abacavir-lamivudine-zidovudine-24,982
+32394,Dacomitinib,"Non-prostanoid IP prostacyclin receptor agonist",dacomitinib-2071,1337
+32402,"Vaskar Laban [Piper + Zingiber + Cinnamomum]","Specific mineral & vitamin combined preparations",vaskar-laban-piper-zingiber-cinnamomum-1751,395
+32541,Erlotinib,Corticosteroid,erlotinib-426,1424
+32553,"Coal Tar + Precipitated Sulphur + Salicylic Acid",Sulfonylureas,coal-tar-precipitated-sulphur-salicylic-acid-299,1005
+32679,Rohitakarista,"Other Antifungal preparations",rohitakarista-1753,694
+32858,"Ferrous Fumarate","Hair Growth Inhibitor",ferrous-fumarate-462,674
+32896,"Salajeet [Mineral Pitch, Red Sage]","Irrigation during various surgical procedures",salajeet-mineral-pitch-red-sage-1729,40
+32934,Ezetimibe,"Methoxsalen preparation",ezetimibe-449,1146
+32953,"Colecalciferol [Vitamin D3]","Long Acting Insulin",colecalciferol-vitamin-d3-252,814
+32972,Cefditoren,"Fibrinolytics (Thrombolytics)",cefditoren-212,1382
+33029,Atezolizumab,"Anti-diarrhoeal Antimicrobial drugs",atezolizumab-1500,563
+33034,"Glycerol + Liquid Sugar","Combined antihypertensive preparations",glycerol-liquid-sugar-530,594
+33050,"Fluticasone Propionate (Nasal Spray)",Statins,fluticasone-propionate-nasal-spray-492,1416
+33080,"Calcium + Vitamin D3 + Vitamin C + Vitamin E + Multimineral","Cerebral vasodilator & Neurosensory oxygenator drugs",calcium-vitamin-d3-vitamin-c-vitamin-e-multimineral-167,986
+33425,"Isopropamide + Trifluoperazine",isopropamide-trifluoperazine-637,"Phenothiazine related drugs",641
+33739,"Coal Tar","Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors",coal-tar-298,504
+33824,"Diclofenac Sodium","Anti-emetic drugs",diclofenac-sodium-357,881
+34136,"Chloroxylenol + Triclosan","Anti-Tubercular Chemotherapeutics",chloroxylenol-triclosan-296,894
+34302,Cabozantinib,"Antiarrhythmic Therapy",cabozantinib-1487,5963
+34631,"Amlodipine Besilate + Benazepril Hydrochloride","Antihistamines anti-allergies & hypo-sensitisation",amlodipine-besilate-benazepril-hydrochloride-64,240
+34732,Fluorouracil,Beta-blockers,fluorouracil-5,797
+34854,"Bupropion Hydrochloride","Miscellaneous prophylactic migraine preparations",bupropion-hydrochloride-155,4323
+34938,Lacidipine,lacidipine-652,"Calcium-channel blockers",1468
+34958,"Sharbat Amla","Nasal Steroid Preparations",sharbat-amla-1825,877
+34990,"Conjugated Estrogen (Cream)","Rapid Acting Insulin",conjugated-estrogen-cream-1780,579
+35162,"Fishar [Snake root, Potassium, Magnesium]","Respiratory stimulants: analeptics",fishar-snake-root-potassium-magnesium-1722,411
+35444,Aswagandharista,"Purified Soybean Oil",aswagandharista-1758,168
+35447,Fluvastatin,"Primary anti-epileptic drugs",fluvastatin-493,632
+35532,Dydrogesterone,"Ophthalmic Non-Steroid Combined preparations",dydrogesterone-400,1014
+35550,Doxophylline,"Drugs for lens opacification",doxophylline-392,1412
+35552,"Finasteride [For B.P.H.]","Topical Vitamin D & related preparations",finasteride-for-bph-471,1405
+35585,Busulfan,"Tricyclic Anti-depressant",busulfan-157,9844
+35629,"Acetate Formulation [Hemodialysis Solution]","Anti-Leprotic drugs",acetate-formulation-hemodialysis-solution-184,875
+35650,"Fluvoxamine Maleate","Anti vertigo drugs",fluvoxamine-maleate-494,898
+35737,Lenalidomide,lenalidomide-669,,881
+35757,"Adsorbed Tetanus Vaccine","Trophic Hormones & Related Synthetic Drugs",adsorbed-tetanus-vaccine-1057,6
+35829,"Cyclopentolate Hydrochloride","Cromoglycate & related drugs",cyclopentolate-hydrochloride-1851,1471
+35940,"Docetaxel Trihydrate","Other laxative preparations",docetaxel-trihydrate-376,1138
+35975,Deflazacort,"Disease-modifying antirheumatic drugs (DMARDs)",deflazacort-326,1241
+36036,"Beclomethasone Dipropionate + Chloramphenicol + Clotrimazole + Lidocaine","Preparations for Ophthalmic diagnosis",beclomethasone-dipropionate-chloramphenicol-clotrimazole-lidocaine-1781,721
+36054,"Flucloxacillin Sodium","Dressing products for wounds/burns/ulcers",flucloxacillin-sodium-473,623
+36090,"Carboxymethylcellulose Sodium + Hypromellose","Cytotoxic Chemotherapy",carboxymethylcellulose-sodium-hypromellose-207,1125
+36091,Cisplatin,"Black Seed Oil",cisplatin-267,1152
+36100,Gabapentin,"Thiazide diuretics & related drugs",gabapentin-510,782
+36143,"Licorice + Vasaka + Basil + Peppermint","Neurodegenerative Disease Drugs / Neuromuscular Disorder Drugs",licorice-vasaka-basil-peppermint-1731,7539
+36351,"Clostridium Botulinum Toxin Type A Neurotoxin","Thyroid drugs & hormone",clostridium-botulinum-toxin-type-a-neurotoxin-295,975
+36355,"Acyclovir (Oral)","Fourth generation Cephalosporins",acyclovir-oral-12,453
+36370,"Guggul + Barberry + Chebulic Myrobalan","Thiazide diuretics & related drugs",guggul-barberry-chebulic-myrobalan-1703,620
+36424,"Ferrous Ascorbate","Topical Antiviral preparations",ferrous-ascorbate-460,759
+36725,"Cinchocaine + Hydrocortisone + Framycetin + Esculin","Other preparations",cinchocaine-hydrocortisone-framycetin-esculin-259,1130
+36744,"Jeerakaddarishta Carminative","Other Systemic Anti-infective Effective in Urinary tract infections",jeerakaddarishta-carminative-1527,121
+36818,Digoxin,"Preparations for Ophthalmic diagnosis",digoxin-366,748
+37026,Deferiprone,"Systemic Urinary Anti- infective",deferiprone-325,1352
+37049,Acetylcysteine,"Anti-Tubercular Chemotherapeutics",acetylcysteine-6,600
+37050,"Diphenhydramine + Dextromethorphan + Levomenthol","Digestive Enzyme",diphenhydramine-dextromethorphan-levomenthol-1476,592
+37266,Astaxanthin,"Stimulant purgatives",astaxanthin-87,725
+37283,"Mustakarista [Cyperus, Zingiber, Piper nigrum]","Drugs for Aphthous ulcer",mustakarista-cyperus-zingiber-piper-nigrum-1741,400
+37322,"Calcium Polystyrene Sulfonate","Positive Inotropic drugs",calcium-polystyrene-sulfonate-1574,1456
+37370,Ivabradine,ivabradine-1152,"Other Anti-anginal & Anti-ischaemic drugs",898
+37395,"Bambuterol Hydrochloride","Ophthalmic antibacterial drugs",bambuterol-hydrochloride-106,177
+37559,"Salep + Coconut + Poppy Seeds +  Almond","Oral preparations",salep-coconut-poppy-seeds-almond-1714,843
+37680,Linagliptin,linagliptin-687,"Dipeptidyl Peptidase-4 (DPP-4) inhibitor",1426
+37719,"Betamethasone + Phenylephrine + Lignocaine","Clobetasol / Clobetasone & Combined Preparations",betamethasone-phenylephrine-lignocaine-1164,328
+37728,"Dextromethorphan Hydrobromide","Anti-diarrhoeal Antiprotozoal",dextromethorphan-hydrobromide-347,556
+37754,"Diflorasone Diacetate","Anti-cholinergic & anti-psychotic combination drugs",diflorasone-diacetate-1854,1276
+38019,Dexibuprofen,"Ulcer protective",dexibuprofen-342,1142
+38071,Aztreonam,"Mydriatic and Cycloplegic agents",aztreonam-101,844
+38102,"Fosfomycin Trometamol","Drugs used in substance dependence",fosfomycin-trometamol-1374,565
+38186,Clobazam,"Hormonal Implants",clobazam-277,1330
+38208,"Butamirate Citrate","Angiotensin-ll receptor blocker",butamirate-citrate-158,4073
+38236,"Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate","Parenteral Iron Preparations",ethinyl-estradiol-levonorgestrel-ferrous-fumarate-441,1461
+38271,Deferasirox,"Other Systemic Anti-infective Effective in Urinary tract infections",deferasirox-323,854
+38499,"Ciclopirox Olamine (Nail Lacquer)","Intracellular antibiotic",ciclopirox-olamine-nail-lacquer-1776,1036
+39114,Ethambutol,"Betamethasone & Combined preparations",ethambutol-438,1482
+39229,Suranjan,"Stimulation of Cartilage formation",suranjan-1734,90
+39362,Ketamine,ketamine-645,"General (Intravenous) anesthetics",819
+39458,"Jouban Satadal","Drugs used for Rheumatoid Arthritis",jouban-satadal-1767,121
+39550,"Ambar Momiyaee",loversol,ambar-momiyaee-1699,978
+39599,"Labetalol Hydrochloride (Injection)",labetalol-hydrochloride-injection-1821,"Alpha adrenoceptor blocking drugs",782
+39687,"Saw palmetto (500 mg)","Nasal non-steroid Preparation",saw-palmetto-500-mg-1761,447
+39788,"Qurs Mulayin [Scammony, Lavender, Fennel]","Osmotic purgatives",qurs-mulayin-scammony-lavender-fennel-1736,763
+40016,"Chlorhexidine Gluconate [1%]","Purified Soybean Oil",chlorhexidine-gluconate-1-1493,629
+40055,Desogestrel,"Anticholinergics (antimuscarinics)/ Anti-spasmodics",desogestrel-331,705
+40323,"Dapoxetine Hydrochloride","Haemodialysis solutions",dapoxetine-hydrochloride-320,1388
+40476,Ambrisentan,"Medium Acting Insulin",ambrisentan-51,606
+40581,Chlorthalidone,"Combined anti- Tubercular Preparations",chlorthalidone-251,711
+40643,Basiliximab,"Ophthalmic steroid - antibiotic combined preparations",basiliximab-108,668
+40946,"Levodopa + Carbidopa (FC tablet)",levodopa-carbidopa-fc-tablet-199,"Antiparkinson drugs",1372
+41199,"Artemether + Lumefantrine","Drugs used in Vaginal and Vulval condition",artemether-lumefantrine-81,623
+41282,Betamethasone,"Aural steroid & antibiotic combined preparations",betamethasone-1617,311
+41340,Daunorubicin,"Irrigation Solution used in Urological Surgery",daunorubicin-1230,711
+41359,"Epinastine Hydrochloride","Mast Cell Stabiliser",epinastine-hydrochloride-419,1497
+41396,"Atropine Sulfate",Anti-dyspeptic/Carminatives,atropine-sulfate-94,124
+41682,Carvedilol,"Immunological Chemotherapy",carvedilol-208,1118
+41879,"Ethinyl Estradiol + Drospirenone (24 tablet)","Triamcinolone & Combined preparations",ethinyl-estradiol-drospirenone-24-tablet-396,703
+42021,"Calcium Carbonate + Vitamin D3 + Multimineral","Combined anxiolytics & anti-depressant drugs",calcium-carbonate-vitamin-d3-multimineral-168,4869
+42079,"Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",iron-polymaltose-complex-folic-acid-zinc-sulfate-407,"Iron, Vitamin & Mineral Combined preparation",1414
+42212,"Iron Polymaltose Complex + Folic Acid + Zinc + Vitamin B-Complex",iron-polymaltose-complex-folic-acid-zinc-vitamin-b-complex-405,"Iron & Vitamin Combined preparations",1480
+42292,"Belgiri [Bael fruit + Connessi bark]","Drugs for HIV / Anti-retroviral drugs",belgiri-bael-fruit-connessi-bark-1717,612
+42396,"Ketorolac Tromethamine (Ophthalmic)",ketorolac-tromethamine-ophthalmic-1307,"Non opioid analgesics",1495
+42483,"Chlorhexidine Gluconate [0.2%]","Oxidising agent with antibacterial and antiviral properties",chlorhexidine-gluconate-02-240,1068
+42515,"Clopidogrel Bisulphate","Anti-thyroid drugs",clopidogrel-bisulphate-286,632
+42806,"Fluphenazine Decanoate","Angiotensin-ll receptor blocker",fluphenazine-decanoate-486,641
+42990,"Marine Collagen",Antacids,marine-collagen-2062,372
+43204,Betrixaban,"Oral Iron preparations",betrixaban-1579,428
+43216,"Brinzolamide + Brimonidine Tartrate","Topical urea preparations",brinzolamide-brimonidine-tartrate-141,158
+43223,Famciclovir,"Anti neoplastic preparations",famciclovir-451,530
+43327,"Clobetasol Propionate + Salicylic Acid","Drugs for Infertility",clobetasol-propionate-salicylic-acid-279,1261
+43381,Avanafil,"H2 receptor antagonist",avanafil-1396,992
+43468,Lactase,lactase-1151,,1403
+43542,"Diclofenac Sodium + Methyl Salicylate + Linseed Oil + Menthol","Proton Pump Inhibitor",diclofenac-sodium-methyl-salicylate-linseed-oil-menthol-1453,1450
+43551,Alteplase,"Dipeptidyl Peptidase-4 (DPP-4) inhibitor",alteplase-1499,170
+43617,"Benzalkonium chloride","Local Antipruritic",benzalkonium-chloride-1600,796
+43652,"Bicarbonate Component [HCO3 Hemodialysis Solution]","Drugs for Megaloblastic Anemia",bicarbonate-component-hco3-hemodialysis-solution-993,830
+43709,Kanamycin,kanamycin-1622,"Ophthalmic antibacterial drugs",746
+43914,"Clotrimazole (Vaginal suppository)","Non-steroidal Anti-inflammatory Drugs (NSAIDs)",clotrimazole-vaginal-suppository-1785,966
+43915,"Chloramphenicol (Oral)","Third generation Cephalosporins",chloramphenicol-oral-1847,553
+44026,"Clobetasol Propionate + Ofloxacin + Ornidazole + Terbinafine","Drugs for Growth failure",clobetasol-propionate-ofloxacin-ornidazole-terbinafine-1578,917
+44310,"Diclofenac Sodium + Misoprostol",Antacids,diclofenac-sodium-misoprostol-358,1197
+44366,"L-Ornithine L-Aspartate + Pancreatin",l-ornithine-l-aspartate-pancreatin-1339,"Digestive Enzyme",1260
+44388,"Cefixime Trihydrate","Oral Anti-coagulants",cefixime-trihydrate-217,1429
+44402,"Levomenthol + Thymol + Terpineol + Chlorobutanol",levomenthol-thymol-terpineol-chlorobutanol-2037,,1495
+44503,"Ciclopirox Olamine (Shampoo)","Carboxylic acids and derivatives",ciclopirox-olamine-shampoo-1667,654
+44594,"Clotrimazole (Ear drop)","Pulmonary surfactants",clotrimazole-ear-drop-288,835
+44669,"Diphenhydramine Hydrochloride",Aminosalicylates,diphenhydramine-hydrochloride-370,739
+44742,"Amino Acid",Glucocorticoids,amino-acid-1890,942
+44830,"Fennel [Mouri, Gohkshura, Kasni]","Non-prostanoid IP prostacyclin receptor agonist",fennel-mouri-gohkshura-kasni-1766,140
+44993,Alectinib,"Other preparations",alectinib-1501,924
+45126,"Dithranol + Boric Acid + Salicylic Acid","Enema & bowel cleansing solution",dithranol-boric-acid-salicylic-acid-147,1411
+45273,"Follitropin Alfa","Antiparkinson drugs",follitropin-alfa-500,819
+45349,"Lidocaine Hydrochloride (Spray)",lidocaine-hydrochloride-spray-685,"Local & Surface anesthesia",1480
+45397,"Fluticasone Propionate (Nebuliser Suspension)","SSRIs & related anti-depressant drugs",fluticasone-propionate-nebuliser-suspension-1342,1064
+45687,"Ferrous Gluconate","Topical Analgesics",ferrous-gluconate-464,1230
+45768,"Clobetasol Propionate (Topical Preparation)","Oral Contraceptive preparations",clobetasol-propionate-topical-preparation-280,775
+45843,"Calcium Carbonate [Elemental source] + Vitamin D3","Atypical anti-depressant drugs",calcium-carbonate-elemental-source-vitamin-d3-169,1670
+45865,"Clobetasone Butyrate","Drugs for menopausal symptoms: Hormone replacement therapy",clobetasone-butyrate-281,584
+46036,Apixaban,"Proton Pump Inhibitor",apixaban-1400,135
+46247,"Fenticonazole Nitrate [Vaginal Tablet]","Drugs used in diaper rash",fenticonazole-nitrate-vaginal-tablet-1584,1138
+46278,"Calcium Gluconate","Adjunct anti-epileptic drugs",calcium-gluconate-182,3388
+46310,"Glycopyrronium Bromide (Injection)","Loop diuretics",glycopyrronium-bromide-injection-553,1494
+46328,"Date palm + Betel nut + Acacia","Membrane stabilizing agent (Sodium channel blockers)",date-palm-betel-nut-acacia-1733,1103
+46489,Empagliflozin,"Oral electrolytes preparations",empagliflozin-1275,697
+46511,"Folic Acid","Anti-emetic drugs",folic-acid-495,612
+46602,Lifitegrast,lifitegrast-1541,"Other ophthalmic preparations",1414
+46641,Aripiprazole,"Drugs acting on the Uterus",aripiprazole-75,629
+46673,"Estriol (Vaginal)","Topical Antihistamines",estriol-vaginal-1608,806
+46753,Ebastine,"Ophthalmic Non-Steroid drugs",ebastine-401,994
+46829,"Amorolfine Hydrochloride (Nail Lacquer)","Long-acting selective ÃƒÅ½Ã‚Â²-adrenoceptor stimulants",amorolfine-hydrochloride-nail-lacquer-1775,156
+46857,"Latanoprost + Timolol",latanoprost-timolol-665,"Drugs for miotics and glaucoma",541
+46897,"Allium cepa + Heparin + Allantoin",lodixanol,allium-cepa-heparin-allantoin-2031,911
+46937,"Cefpodoxime Proxetil + Clavulanic Acid","Anti-anginal & lipid lowering drugs",cefpodoxime-proxetil-clavulanic-acid-221,1275
+47045,"Azelaic Acid","Anti-emetic drugs",azelaic-acid-97,810
+47088,Arabinoxylan,"Prevention of repeated kidney stone formation",arabinoxylan-1488,620
+47147,Chloroxylenol,"Anti-Tubercular Antibiotics",chloroxylenol-1227,1368
+47270,"Eflornithine Hydrochloride","Ophthalmic Steroid- anti allergic combined preparations",eflornithine-hydrochloride-1404,1476
+47297,Entacapone,Cerumenolytic,entacapone-412,805
+47330,Hazmina,"Adenosine triphosphate-citrate lyase (ACL) inhibitor",hazmina-2065,1157
+47404,Cephalexin,Macrolides,cephalexin-231,1205
+47418,"Flupentixol + Melitracen","Angiotensin-ll receptor blocker",flupentixol-melitracen-485,1190
+47574,"Ethinyl Estradiol + Desogestrel (0.03 mg)","Fluticasone & combined preparations topical",ethinyl-estradiol-desogestrel-003-mg-332,740
+47660,"Vitamin E [Alpha Tocopherol Acetate]","Multi-vitamin & Multi-mineral combined preparations",vitamin-e-alpha-tocopherol-acetate-1138,799
+47701,Artemether,"Drugs used in Ano-rectal region",artemether-80,652
+47718,Clonazepam,"Drugs affecting (inhibiting) gonadotrophin",clonazepam-284,1417
+47740,"Cefadroxil Monohydrate","Targeted Cancer Therapy",cefadroxil-monohydrate-210,803
+47752,"Glecaprevir + Pibrentasvir","Combined anxiolytics & anti-depressant drugs",glecaprevir-pibrentasvir-1587,1092
+47784,"Lactic acid + Sodium PCA",lactic-acid-sodium-pca-660,"Emollients & combined preparations",1239
+47868,Cinnarizine,Gadodiamide,cinnarizine-261,578
+47879,Glycine,"Direct Renin Inhibitors",glycine-533,1299
+48094,"Glycerol + Hypromellose + Polyethylene Glycol 400","Centrally acting antihypertensive drugs (central sympatholytic)",glycerol-hypromellose-polyethylene-glycol-400-552,1327
+48261,Drotaverine,"Ophthalmic Anti-allergic preparations",drotaverine-397,1030
+48401,Eplerenone,"Nasal Anti-cholinergic (Anti- muscarinic) Preparations",eplerenone-421,1299
+48432,"Amino Acid + Dextrose + Eloctrolytes","Loop diuretics",amino-acid-dextrose-eloctrolytes-1788,1156
+48542,"23 herb formula to increase breast milk","Vaccines, Anti-sera & Immunoglobulin",23-herb-formula-to-increase-breast-milk-1833,774
+48601,"Clindamycin (Lotion)","Aldose reductase inhibitor",clindamycin-lotion-1588,989
+48664,"Cyclobenzaprine Hydrochloride","Combined bronchodilators",cyclobenzaprine-hydrochloride-312,563
+48924,Latanoprost,latanoprost-666,"Drugs for miotics and glaucoma",641
+49087,"Eribulin Mesylate","Stimulation of Cartilage formation",eribulin-mesylate-1797,1087
+49193,"Amlodipine Besilate + Olmesartan Medoxomil",Bronchodilator,amlodipine-besilate-olmesartan-medoxomil-65,167
+49287,"Butenafine Hydrochloride","Calcium-channel blockers",butenafine-hydrochloride-159,4509
+49319,"Ketorolac Tromethamine",ketorolac-tromethamine-648,"Drugs used for Rheumatoid Arthritis",565
+49557,"Fluocinolone Acetonide","Oral retinoids for Acne",fluocinolone-acetonide-480,723
+49587,"Calcium Folinate [Folinic Acid]","Tricyclic & related anti-depressant drugs",calcium-folinate-folinic-acid-499,5580
+49606,Flurazepam,Anti-coagulants,flurazepam-488,541
+49690,"Dalteparin Sodium","Drugs used in Vaginal and Vulval condition",dalteparin-sodium-317,603
+49706,"Ketoconazole (Shampoo)",ketoconazole-shampoo-1627,"Drugs for subcutaneous and mycoses",680
+49786,"Saffron + Sand Lizard + Nutmeg fruit","Anticavity Mouthwash",saffron-sand-lizard-nutmeg-fruit-1721,21
+49862,Clindamycin,"Adjunct anti-epileptic drugs",clindamycin-273,776
+49927,Desoximetasone,"Chelating complex",desoximetasone-1402,507
+49970,Dextrose,"Anti-motility drugs",dextrose-350,1002
+50249,"Black Cohosh [Cimicifuga Racemosa]","Aldose reductase inhibitor",black-cohosh-cimicifuga-racemosa-1538,710
+50373,"Red Clover Isoflavones","Other laxative preparations",red-clover-isoflavones-1528,936
+50631,"Dorzolamide + Timolol","Drugs for Age-Related Macular Degeneration (AMD)",dorzolamide-timolol-389,1206
+50641,"Diclofenac Potassium","Proton Pump Inhibitor",diclofenac-potassium-1184,1137
+50661,Carbetocin,"Angiotensin-ll receptor blocker",carbetocin-197,607
+50754,"Diclofenac Diethylamine + Mephenesin + Menthol + Methyl Salicylate + Turpentine Oil","Motility Stimulants",diclofenac-diethylamine-mephenesin-menthol-methyl-salicylate-turpentine-oil-1483,1273
+50766,Bendamustine,"Topical Antiviral preparations",bendamustine-1288,891
+50822,"Clomiphene Citrate","Drugs for Milk suppression",clomiphene-citrate-282,1187
+50849,Besifloxacin,"Plasma expanders",besifloxacin-119,159
+50859,Lamotrigine,lamotrigine-656,"Primary anti-epileptic drugs",1090
+50996,"Activated Charcoal","Ear Anti-Infectives & Antiseptics",activated-charcoal-22,187
+51105,Febuxostat,"Sunblock Preparation",febuxostat-453,1121
+51152,"Encephalitis Vaccine","Aural Anti-fungal preparations",encephalitis-vaccine-1556,892
+51223,Dehydroepiandrosterone,"Drugs used in Gout",dehydroepiandrosterone-1970,792
+51247,"Alendronic Acid + Vitamin D3","Barium Sulphate",alendronic-acid-vitamin-d3-37,494
+51347,Amlexanox,"Painkiller Muscle Relaxant",amlexanox-61,599
+51442,Flutamide,"Antiarrhythmic Therapy",flutamide-490,1450
+51937,"Ethinyl Estradiol + Drospirenone (21 tablet)","Other Topical corticosteroids",ethinyl-estradiol-drospirenone-21-tablet-1804,1484
+52013,Armodafinil,"Drugs for Erectile Dysfunction",armodafinil-1372,500
+52022,"Fusidic acid + Betamethasone","Osmotic diuretics",fusidic-acid-betamethasone-1972,1106
+52060,Chlorambucil,"Sulphonamides & Trimethoprim",chlorambucil-236,1490
+52325,Benzocaine,"Minerals in bone formation",benzocaine-111,251
+52434,Anastrozole,"Antidote preparations",anastrozole-72,7613
+52463,Alcaftadine,Immunomodulator,alcaftadine-29,694
+52473,"Biphasic Insulin Aspart [rDNA]","Hormone in bone formation by Inhibiting bone resorption",biphasic-insulin-aspart-rdna-611,403
+52694,"Nabayas Louha Herbal Haematinic","H2 receptor antagonist",nabayas-louha-herbal-haematinic-1518,248
+52714,Jinsin,"Systemic Urinary Anti- infective",jinsin-1711,923
+52838,Bevacizumab,"Iron, Vitamin & Mineral Combined preparation",bevacizumab-131,41
+52905,"Betamethasone + Gentamicin","Beclomethasone & Combined Preparations",betamethasone-gentamicin-1242,990
+53159,"Enoxaparin Sodium","Aural steroid & antibiotic combined preparations",enoxaparin-sodium-411,790
+53245,"Dopamine Hydrochloride","Nasal Steroid Preparations",dopamine-hydrochloride-387,643
+53263,"Bandish [Oak Galls, Tannic acid]","Non depolarizing muscle relaxants",bandish-oak-galls-tannic-acid-1723,93
+53328,"Clove oil",Biguanides,clove-oil-1607,1158
+53368,"Adapalene + Benzoyl peroxide",Amoebicides,adapalene-benzoyl-peroxide-11,1036
+53393,Doripenem,"Antioxidant vitamins & minerals for eye",doripenem-388,906
+53487,"Esomeprazole + Amoxicillin + Clarithromycin","Vitamin-A preparations",esomeprazole-amoxicillin-clarithromycin-1462,1206
+53644,"Antihemophilic Factor [Factor VIII]","Proton Pump Inhibitor",antihemophilic-factor-factor-viii-73,696
+53792,"Formoterol Fumarate + Glycopyrrolate + Budesonide","CNS stimulant drugs",formoterol-fumarate-glycopyrrolate-budesonide-1976,821
+54261,Letrozole,letrozole-672,"Hormonal Chemotherapy",1216
+54304,"Malus sylvestris","H2 receptor antagonist",malus-sylvestris-1846,699
+54314,Difluprednate,Anti-dyspeptic/Carminatives,difluprednate-365,928
+54363,Etodolac,"Hormone in bone formation by Inhibiting bone resorption",etodolac-444,1424
+54394,"Esmolol Hydrochloride","Parenteral nutritional preparations",esmolol-hydrochloride-1674,590
+54427,"Betamethasone + Neomycin Sulphate (Topical)","Fluocinolone & Combined Preparations",betamethasone-neomycin-sulphate-topical-1226,604
+54639,Estradiol,"Vitamin-B preparations",estradiol-434,639
+54650,Albendazole,"Contrast medium for diagnostic procedures",albendazole-16,213
+54667,"Lenvatinib Mesylate",lenvatinib-mesylate-1389,,870
+54803,"Lanthanum Carbonate",lanthanum-carbonate-1844,"Drugs used in chronic kidney dialysis",1481
+54971,"Doxorubicin Hydrochloride","Drugs for miotics and glaucoma",doxorubicin-hydrochloride-393,1283
+55183,"Dienogest + Estradiol Valerate",Antacids,dienogest-estradiol-valerate-1864,1197
+55217,"Ferric Carboxymaltose","Other Antifungal preparations",ferric-carboxymaltose-459,1138
+55244,"Kusta Qalyee [Calcined stannum]","CNS stimulant drugs",kusta-qalyee-calcined-stannum-1730,9249
+55353,"Ethyl Alcohol + Hydrogen peroxide + Glycerol","Combined preparations: Inhibiting bone resorption",ethyl-alcohol-hydrogen-peroxide-glycerol-1585,903
+55363,Brivaracetam,"Methoxsalen preparation",brivaracetam-1566,863
+55593,"Dexamethasone + Tobramycin","Proton Pump Inhibitor",dexamethasone-tobramycin-341,904
+55660,Crizotinib,"Topical anti-inflammatory preparations",crizotinib-1379,793
+55883,Gefitinib,"Other lipid regulating drugs",gefitinib-517,936
+55953,Barsina,"Anti-viral drugs",barsina-1686,1081
+55965,"Coal Tar Solution","Thiazolidinedione Group",coal-tar-solution-902,795
+56075,"Formoterol Fumarate","Appetite suppressant drugs/Anti-obesity drugs",formoterol-fumarate-502,1069
+56207,Apremilast,"Compound steroidal preparations",apremilast-1378,468
+56213,"Aclidinium Bromide + Formoterol Fumarate","Combined anti- Tubercular Preparations",aclidinium-bromide-formoterol-fumarate-2060,857
+56214,"Diphenhydramine Hydrochloride + Zinc Acetate","Drugs for Irritable Bowel Syndrome",diphenhydramine-hydrochloride-zinc-acetate-382,933
+56383,Glycerin,"Beta-adrenoceptor blocking drugs",glycerin-531,1216
+56403,"Lactic acid + Citric acid + Potassium bitartrate",lactic-acid-citric-acid-potassium-bitartrate-1837,"Miscellaneous topical agents",1281
+56642,"Gentamicin Sulfate (Injection)","5-HT Agonists",gentamicin-sulfate-injection-1505,643
+56729,"Emblic Myrobalan + Sesame","Combined cough expectorants",emblic-myrobalan-sesame-1700,97
+56886,"Iron Hydroxide Polymaltose + Folic acid + Zinc Sulfate Monohydrate",iron-hydroxide-polymaltose-folic-acid-zinc-sulfate-monohydrate-1673,"Iron, Vitamin & Mineral Combined preparation",659
+56898,Desvenlafaxine,"Drugs for Aphthous ulcer",desvenlafaxine-334,1477
+57024,"Curcuma Longa [Turmeric Extract]","Drugs for Milk suppression",curcuma-longa-turmeric-extract-2064,712
+57067,Lansoprazole,lansoprazole-663,"Proton Pump Inhibitor",1212
+57307,Bisacodyl,"Hormone in bone formation by stimulation",bisacodyl-133,815
+57420,"Fluocinolone Acetonide + Clioquinol","Phenothiazine related drugs",fluocinolone-acetonide-clioquinol-1822,1000
+57447,Favipiravir,"Combined preparations",favipiravir-1547,1383
+57449,"Empagliflozin + Metformin Hydrochloride","Anti-fungal or anti-bacterial ear drops",empagliflozin-metformin-hydrochloride-1580,1334
+57535,"Ketoconazole (Cream)",ketoconazole-cream-1628,"Drugs for subcutaneous and mycoses",764
+57538,"Canagliflozin Hemihydrate","Stimulator of soluble guanylate cyclase",canagliflozin-hemihydrate-245,992
+57564,D-chiro-inositol,"Theophylline & related drugs",d-chiro-inositol-1790,1250
+57585,"Clobetasol Propionate (Scalp Preparation)","Male Sex hormones (Androgens)",clobetasol-propionate-scalp-preparation-1582,571
+57586,"Carmellose Sodium","Hormonal Chemotherapy",carmellose-sodium-1621,1133
+57597,"Diphtheria, Tetanus, Pertussis, Poliomyelitis Vaccine","Antacid with laxative action",diphtheria-tetanus-pertussis-poliomyelitis-vaccine-1974,918
+57752,"Ceftriaxone Sodium","Opioid analgesics",ceftriaxone-sodium-225,1358
+58024,"Amino Acid + Glucose + Electrolytes","Potassium-sparing diuretics",amino-acid-glucose-electrolytes-57,661
+58088,"Ethinyl Estradiol + Desogestrel + Ferrous Fumarate","Hydrocortisone & Combined preparations",ethinyl-estradiol-desogestrel-ferrous-fumarate-1807,1406
+58282,"Amantadine Hydrochloride","Long Acting Insulin",amantadine-hydrochloride-50,553
+58358,"Gatifloxacin + Dexamethasone","Nicotinic acid group",gatifloxacin-dexamethasone-338,1239
+58542,"Peppermint Oil","Drugs affecting exocrine secretions",peppermint-oil-874,466
+58573,"Ispaghula Husk + Ispaghula Seed + Tinnevelly Senna Pods",ispaghula-husk-ispaghula-seed-tinnevelly-senna-pods-1816,"Bulk-forming laxatives",1363
+58921,"Eslicarbazepine Acetate","Multi-vitamin & Multi-mineral combined preparations",eslicarbazepine-acetate-431,822
+58927,"Ketoconazole (Tablet)",ketoconazole-tablet-646,"Drugs for subcutaneous and mycoses",1372
+59037,"Ketoprofen (oral & injection)",ketoprofen-oral-injection-647,"Drugs for Osteoarthritis",1069
+59193,"Psyllium [Ispaghula Husk] + Senna Extract","Combined preparation for constipation",psyllium-ispaghula-husk-senna-extract-1503,180
+59446,Allylestrenol,"Nitrates: Coronary vasodilators",allylestrenol-1369,831
+59607,Tabkheer,"Drugs for Osteoarthritis",tabkheer-1682,218
+59651,"Glucose 11% + Vamin 18 Novum + Intralipid 20%","Angiotensin-ll receptor blocker",glucose-11-vamin-18-novum-intralipid-20-1880,870
+59657,Filgrastim,"Oral Retinoid preparations",filgrastim-470,1376
+59738,Dexamethasone,"H2 receptor antagonist",dexamethasone-335,1419
+59782,"Budesonide (Tablet)","Benzodiazepine sedatives",budesonide-tablet-1653,7175
+59908,"Arformoterol Tartrate","BPH/ Urinary retention/ Urinary incontinence",arformoterol-tartrate-1815,143
+60160,Agomelatine,"Carboxylic acids and derivatives",agomelatine-35,45
+60186,"Lamivudine + Zidovudine + Nevirapine",lamivudine-zidovudine-nevirapine-662,"Drugs for HIV / Anti-retroviral drugs",690
+60888,"Bleomycin Sulfate","Iodine compounds (Anti-septic Preparations)",bleomycin-sulfate-137,425
+60890,Acemetacin,Aminoglycosides,acemetacin-21,907
+61055,"Acyclovir (Topical)",Glycopeptide,acyclovir-topical-9,719
+61123,"Azithromycin Dihydrate (Ophthalmic)","Drugs for miotics and glaucoma",azithromycin-dihydrate-ophthalmic-1865,192
+61128,"Celiprolol Hydrochloride","Depolarizing muscle relaxants",celiprolol-hydrochloride-1801,963
+61212,"Compound Asparagus","Drugs for Infertility",compound-asparagus-1746,674
+61221,Ertugliflozin,"Anti-oxidant Multivitamin Multimineral preparations",ertugliflozin-2058,1163
+61262,"Erythropoietin Alfa","Specific mineral & vitamin combined preparations",erythropoietin-alfa-422,1324
+61375,"Levothyroxine Sodium",levothyroxine-sodium-1174,"Thyroid drugs & hormone",1000
+61404,"Dextran + Sodium Chloride","Drugs acting on the Uterus",dextran-sodium-chloride-348,773
+61412,Bumetanide,"Non-Benzodiazepine hypnotics",bumetanide-151,2689
+61494,"Menthol + Camphor + Eucalyptus Oil + Mint Oil",Anti-dyspeptic/Carminatives,menthol-camphor-eucalyptus-oil-mint-oil-1529,395
+61762,"Cefoperazone Sodium","Parenteral anti-coagulants",cefoperazone-sodium-1415,1292
+62030,Gemifloxacin,"Drugs for muscular energy metabolism",gemifloxacin-1182,822
+62051,Diazoxide,"H2 receptor antagonist",diazoxide-1852,1258
+62116,"Diclofenac Sodium + Lidocaine Hydrochloride",Antacids,diclofenac-sodium-lidocaine-hydrochloride-356,977
+62170,"Atosiban Acetate","Water purifying agent",atosiban-acetate-1819,873
+62476,"Ephedrine Hydrochloride",Decongestant,ephedrine-hydrochloride-418,1256
+62594,Lactulose,lactulose-653,"Osmotic purgatives",903
+62692,"Ferrous Sulfate + Folic Acid","Dithranol & combined preparations",ferrous-sulfate-folic-acid-466,757
+62713,Lacosamide,lacosamide-1418,"Atypical anti-depressant drugs",1391
+62721,"Chlorhexidine Gluconate [7.1%]",Silymarin,chlorhexidine-gluconate-71-1492,1186
+62773,"Adhatoda vasica + Centella asiatica",Leishmaniacides,adhatoda-vasica-centella-asiatica-1893,1156
+62796,"Fluticasone Propionate (Inhaler)","Cerebral vasodilator & Neurosensory oxygenator drugs",fluticasone-propionate-inhaler-1643,501
+63072,"Alfuzosin Hydrochloride",Gadoversetamide,alfuzosin-hydrochloride-41,542
+63143,"Budesonide + Formoterol Fumarate","Miscellaneous sedatives & hypnotics",budesonide-formoterol-fumarate-150,9465
+63429,Aspartame,"Phenothiazine drugs",aspartame-84,7803
+63531,"Clotrimazole (Topical)","Non-Opioid Analgesics",clotrimazole-topical-289,973
+63553,"Mentha + Cinnamomum + Gaultheria + Capsicum","Anti-cholinergic & anti-psychotic combination drugs",mentha-cinnamomum-gaultheria-capsicum-1748,759
+63586,Cefoxitin,"Anti-platelet drugs",cefoxitin-1274,764
+63689,"Afatinib Dimaleate","Anti-thyroid drugs",afatinib-dimaleate-1849,686
+63735,"Abiraterone Acetate",Corticosteroid,abiraterone-acetate-1294,1470
+63814,"Carboprost Tromethamine","Direct Renin Inhibitors",carboprost-tromethamine-1401,906
+63905,Abhayarista,Immunosuppressant,abhayarista-1752,753
+63993,"Herbal cough syrup [Tulsi]","Selective vasopressin V2-receptor antagonist",herbal-cough-syrup-tulsi-1769,622
+64094,"Fluoxetine Hydrochloride","Miscellaneous prophylactic migraine preparations",fluoxetine-hydrochloride-483,1426
+64113,"Bromfenac Sodium","Combined preparations",bromfenac-sodium-144,863
+64155,"Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",iron-folic-acid-vitamin-b-complex-vitamine-c-zinc-sulfate-629,"Iron & Vitamin Combined preparations",644
+64211,"Dexamethasone (Ophthalmic)","Motility stimulants/Dopamine antagonist",dexamethasone-ophthalmic-337,1236
+64298,"Datura + Rhubarb + Ginger","Paroxysmal supraventricular tachycardia (PSVT)",datura-rhubarb-ginger-1701,976
+64365,"Diltiazem Hydrochloride (FC tablet)","Bile acid sequestrants",diltiazem-hydrochloride-fc-tablet-368,940
+64432,Brinzolamide,"Hydroquinone Preparations",brinzolamide-142,20
+64525,"Bupivacaine Hydrochloride","Anti-histamine Preparations",bupivacaine-hydrochloride-152,7713
+64543,"Stevia Rebaudiana","Drugs for lens opacification",stevia-rebaudiana-1765,353
+64607,"Devil's Claw","Potassium channel blockers",devils-claw-1786,1010
+64645,Baricitinib,"Ophthalmic Non-Steroid Combined preparations",baricitinib-1581,934
+64751,"Glycerin + Hypromellose + Polyethylene glycol + Tetrahydrozoline + Zinc Sulfate","Calcium-channel blockers",glycerin-hypromellose-polyethylene-glycol-tetrahydrozoline-zinc-sulfate-1479,1070
+64782,"Chloramphenicol (Ophthalmic)","Tetracycline group of drugs",chloramphenicol-ophthalmic-237,795
+64790,"Mahadrakkharist [Grape extract]",Antacids,mahadrakkharist-grape-extract-1530,301
+64803,Erdosteine,"Inhibiting bone resorption",erdosteine-1284,1379
+64834,"Budesonide (Inhaler)","Piperidinyl-benzisoxazole derivative",budesonide-inhaler-1654,6027
+64940,"Betamethasone Sodium Phosphate","Other Topical corticosteroids",betamethasone-sodium-phosphate-1616,673
+65015,"Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C","Anti vertigo drugs",calcium-lactate-gluconate-calcium-carbonate-vitamin-c-174,5533
+65295,"Calcium Carbonate [Algae source] + Vitamin D3","5-HT Agonists",calcium-carbonate-algae-source-vitamin-d3-1772,6927
+65307,"Gentamicin Sulfate (Topical)","Other drugs for migraine",gentamicin-sulfate-topical-1385,1090
+65525,"Amitriptyline Hydrochloride + Chlordiazepoxide","Locally acting Skeletal Muscle Relaxants",amitriptyline-hydrochloride-chlordiazepoxide-622,603
+65576,"Carica Papaya Leaf Extract","Hormonal Implants",carica-papaya-leaf-extract-1611,754
+66122,"Ciprofloxacin (Ophthalmic)",lopamidol,ciprofloxacin-ophthalmic-266,1490
+66297,"L-Lysine Hydrochloride",l-lysine-hydrochloride-650,"Dressing products for wounds/burns/ulcers",912
+66348,"Bisoprolol Fumarate + Hydrochlorothiazide","Chlorhexidine & Chloroxylenol preparations",bisoprolol-fumarate-hydrochlorothiazide-136,554
+66399,"Citric Acid Monohydrate",Haemostatics,citric-acid-monohydrate-1441,1312
+66404,"Ispaghula Husk + Sonapata","Peritoneal dialysis solution",ispaghula-husk-sonapata-1646,508
+66482,"Bacillus Clausii spores","Ocular perioperative drugs",bacillus-clausii-spores-1474,129
+66602,"Lamivudine [For Chronic Hepatitis B]",lamivudine-for-chronic-hepatitis-b-1312,"Hepatic viral infections (Hepatitis B)",822
+66770,Biotin,"Hepatic viral infections (Hepatitis C)",biotin-1535,1272
+66859,"Fondaparinux Sodium","Antidote preparations",fondaparinux-sodium-501,1372
+66970,"Ethanol + Isopropyl alcohol","Clobetasol / Clobetasone & Combined Preparations",ethanol-isopropyl-alcohol-1456,541
+67006,"Aniseed + Indian dill + Black cardamom + Peppermint","Haematopoietic Agents",aniseed-indian-dill-black-cardamom-peppermint-1719,321
+67063,"Calcium Lactate Gluconate + Coral Calcium + Vitamin C + Vitamin D3","Anti-Alzheimer drugs",calcium-lactate-gluconate-coral-calcium-vitamin-c-vitamin-d3-2044,2394
+67068,"Herbal cough syrup [Glycyrrhiza Glabra]",Ezetimibe,herbal-cough-syrup-glycyrrhiza-glabra-1712,866
+67133,"Lidocaine + Epinephrine",lidocaine-epinephrine-1222,"Local & Surface anesthesia",524
+67148,"Benzyl Alcohol","Vitamin-K Preparations",benzyl-alcohol-1276,423
+67312,Famotidine,"Topical salicylic preparation",famotidine-452,994
+67402,Almotriptan,"Potassium-channel activator",almotriptan-44,1438
+67407,"Ampicillin Sodium","Drugs used in tremor, tics & related disorder",ampicillin-sodium-71,5982
+67836,"Brahmi Rasayan","Anabolic steroid (Androgens)",brahmi-rasayan-1747,108
+67903,Dutasteride,"Ophthalmic antibacterial drugs",dutasteride-399,706
+67908,"Yohimbine Hydrochloride","Parenteral nutritional preparations",yohimbine-hydrochloride-1520,392
+68122,"Econazole Nitrate","Ophthalmic steroid - antibiotic combined preparations",econazole-nitrate-402,1437
+68325,"Betamethasone + Calcipotriol",Cerumenolytic,betamethasone-calcipotriol-126,524
+68355,"Iron + Folic Acid + Vitamin A + Vitamin C + Zinc",iron-folic-acid-vitamin-a-vitamin-c-zinc-659,"Iron, Vitamin & Mineral Combined preparation",1149
+68385,Ejaz,"Respiratory corticosteroids",ejaz-1685,945
+68488,"Lamivudine [For HIV Infection]",lamivudine-for-hiv-infection-654,"Drugs for HIV / Anti-retroviral drugs",937
+68680,"Gatifloxacin (Ophthalmic)",Ezetimibe,gatifloxacin-ophthalmic-514,1403
+68722,"Fexofenadine Hydrochloride","Emollients & combined preparations",fexofenadine-hydrochloride-468,1471
+69148,Patrangasav,"Bile acid sequestrants",patrangasav-1522,473
+69255,"Ferrous Sulfate + Folic Acid + Zinc Sulfate","Drugs affecting the immune response",ferrous-sulfate-folic-acid-zinc-sulfate-467,764
+69305,Calcitriol,"Other lipid regulating drugs",calcitriol-165,531
+69324,Spirulina,"Drugs for corneal oedema",spirulina-1513,706
+69360,"Dextromethorphan Hydrobromide + Guaifenesin","Anti-diarrhoeal Enzyme",dextromethorphan-hydrobromide-guaifenesin-1774,957
+69396,"Citalopram Hydrobromide","Farnesoid X Receptor Agonists",citalopram-hydrobromide-268,969
+69420,Colchicine,"GLP-1 receptor agonists",colchicine-303,607
+69424,"Conjugated Estrogen (Tablet)","Short Acting Insulin",conjugated-estrogen-tablet-304,628
+69513,"Budesonide (Nebuliser Suspension)","Benzodiazepine hypnotics",budesonide-nebuliser-suspension-146,4924
+69582,"Azilsartan Medoxomil","Topical Vitamin D & related preparations",azilsartan-medoxomil-99,949
+69798,"Coenzyme Q10 [Ubidecarenone]","Calcium Regulator",coenzyme-q10-ubidecarenone-302,917
+69802,"Irrigating Solution",irrigating-solution-1572,"Other ophthalmic preparations",1155
+70027,Flurbiprofen,"Anti-platelet drugs",flurbiprofen-489,854
+70036,"Almitrine Bismesylate + Raubasine","Other Anti-anginal & Anti-ischaemic drugs",almitrine-bismesylate-raubasine-39,1354
+70215,Artesunate,"Atypical neuroleptic drugs",artesunate-82,7042
+70270,"Ciprofloxacin + Dexamethasone","lopanoic Acid",ciprofloxacin-dexamethasone-264,772
+70314,"Eucalyptol + Menthol + Methyl Salicylate + Thymol + Sodium Fluoride","Hydroquinone Preparations",eucalyptol-menthol-methyl-salicylate-thymol-sodium-fluoride-447,860
+70507,"Ambergris + Salep + Galangal","Black Seed Oil",ambergris-salep-galangal-1737,330
+70657,Khakshi,"Appetite suppressant drugs/Anti-obesity drugs",khakshi-1698,1951
+70773,"Suzark [Chir Pine, Chickpea, Pearl]",Corticosteroid,suzark-chir-pine-chickpea-pearl-1735,391
+70809,"Duloxetine Hydrochloride","Ophthalmic Anti-viral Products",duloxetine-hydrochloride-398,1089
+70965,"Aluminium Hydroxide + Magnesium Hydroxide",Sulfonylureas,aluminium-hydroxide-magnesium-hydroxide-19,719
+71132,Adrenaline,"Growth hormone antagonist",adrenaline-28,519
+71155,"Cinchocaine Hydrochloride","Barium Sulphate",cinchocaine-hydrochloride-260,925
+71213,"Loteprednol Etabonate",loteprednol-etabonate-1575,"Ophthalmic Steroid preparations",746
+71220,Allopurinol,lohexol,allopurinol-17,751
+71384,"Clomipramine Hydrochloride","Hormone preparations for other uses",clomipramine-hydrochloride-283,1345
+71443,"Fucidic Acid + Betamethasone","Anti-manic drugs",fucidic-acid-betamethasone-507,1410
+71554,Drospirenone,"Ophthalmic and Topical antibacterial products",drospirenone-1663,902
+71587,Darifenacin,"Peritoneal dialysis solution",darifenacin-322,795
+71589,"Betahistine Mesylate","Aural Anti-fungal preparations",betahistine-mesylate-122,875
+71814,"Candesartan Cilexetil","Thiazide diuretics & related drugs",candesartan-cilexetil-191,506
+71948,Brexpiprazole,"Oral Hormonal preparations for Acne",brexpiprazole-1562,8
+71994,"Saffron + Mace arillus + Nutmeg fruit","Topical Antifungal preparations",saffron-mace-arillus-nutmeg-fruit-1713,966
+72124,"Follicle Stimulating Hormone [Urofollitropin]","Anti-Alzheimer drugs",follicle-stimulating-hormone-urofollitropin-1410,746
+72137,"Furosemide + Spironolactone","Butyrophenone drugs",furosemide-spironolactone-506,912
+72154,"Amitriptyline Hydrochloride","Drugs used in Myasthenia Gravis",amitriptyline-hydrochloride-60,861
+72234,"Ergotamine Tartrate + Caffeine","Vitamin in bone formation",ergotamine-tartrate-caffeine-162,1216
+72278,"Fludrocortisone Acetate","Benzoyl peroxide, Azelaic acid & other preparations",fludrocortisone-acetate-1405,692
+72318,"Docusate Sodium (Ear drop)","Stimulant purgatives",docusate-sodium-ear-drop-1813,868
+72341,Daclatasvir,"Cough expectorants & mucolytics",daclatasvir-316,889
+72403,"Lidocaine Hydrochloride (Injection)",lidocaine-hydrochloride-injection-1630,"Local & Surface anesthesia",659
+72447,"Betahistine Dihydrochloride","Aural Anti-bacterial preparations",betahistine-dihydrochloride-121,176
+72492,Carbocisteine,"Beta-adrenoceptor blocking drugs",carbocisteine-201,1046
+72625,Desonide,"Candida infections",desonide-333,752
+72633,"Benzoic Acid + Salicylic Acid","Vitamin-C Preparations",benzoic-acid-salicylic-acid-113,608
+72770,"Azilsartan Medoxomil + Chlorthalidone","Medicated Shampoos",azilsartan-medoxomil-chlorthalidone-1634,515
+72780,"Bacitracin Zinc + Polymyxin B Sulfate","Ophthalmic and Topical antibacterial products",bacitracin-zinc-polymyxin-b-sulfate-104,626
+72875,"Ketotifen Fumarate (Oral)",ketotifen-fumarate-oral-649,"Cromoglycate & related drugs",1487
+72936,Carbimazole,Anti-hypertensive,carbimazole-200,1023
+73052,Glycerol,"Carbonic anhydrase inhibitor",glycerol-1620,760
+73068,"Amino Acid + Calcium","Adjunct anti-epileptic drugs",amino-acid-calcium-1213,504
+73196,Clozapine,"Dipeptidyl Peptidase-4 (DPP-4) inhibitor",clozapine-297,1122
+73267,"Baloxavir Marboxil","Ophthalmic Anti-viral Products",baloxavir-marboxil-1883,667
+73279,"Bupivacaine Hydrochloride + Dextrose",Beta-blockers,bupivacaine-hydrochloride-dextrose-153,5872
+73339,Levamisole,levamisole-674,Anthelmintic,760
+73360,"Ambroxol Hydrochloride","Rapid Acting Insulin",ambroxol-hydrochloride-53,542
+73487,"Ferric Citrate","Parasiticidal preparations",ferric-citrate-1606,736
+73602,"Antacid [Unani]",Haemostatics,antacid-unani-1695,537
+73650,"Dextromethorphan + Phenylephrine + Triprolidine","Drugs for Erectile Dysfunction",dextromethorphan-phenylephrine-triprolidine-1303,950
+73734,"Chloroquine Phosphate","Anti-Leprotic drugs",chloroquine-phosphate-248,1416
+73761,"Beclomethasone Dipropionate (Nasal Spray)","Ophthalmic Steroid- anti allergic combined preparations",beclomethasone-dipropionate-nasal-spray-1221,372
+73806,"Aspirin + Dipyridamole","Miscellaneous topical agents",aspirin-dipyridamole-1299,3340
+73808,"Bacopa extract [Natural memory enhancer]",Silymarin,bacopa-extract-natural-memory-enhancer-1524,355
+73970,"Flavoxate Hydrochloride","Bleaching and Disinfectants",flavoxate-hydrochloride-472,1348
+74040,"Cefepime Hydrochloride","Hematopoietic drug",cefepime-hydrochloride-215,1200
+74129,Dexlansoprazole,"Proton Pump Inhibitor",dexlansoprazole-344,738
+74254,"Emblic Myrobalan + Aswagandha + Grape","Short-acting selective & ÃƒÅ½Ã‚Â²2-adrenoceptor stimulants",emblic-myrobalan-aswagandha-grape-1738,627
+74314,"Gatifloxacin (Oral)",Fibrates,gatifloxacin-oral-515,1281
+74466,"Loteprednol Etabonate + Gatifloxacin",loteprednol-etabonate-gatifloxacin-1321,"Ophthalmic Steroid preparations",819
+74702,"Ketotifen Fumarate (Ophthalmic)",ketotifen-fumarate-ophthalmic-1311,"Ophthalmic Non-Steroid drugs",1410
+74774,"Ferric Derisomaltose","Topical Antibiotic preparations",ferric-derisomaltose-1879,1313
+75097,Aminophylline,"Non-steroidal Anti-inflammatory Drugs (NSAIDs)",aminophylline-58,92
+75168,"Ivermectin (Topical)",ivermectin-topical-1472,"Miscellaneous topical agents",875
+75571,"Fusidic Acid (Ophthalmic)","Phenothiazine drugs",fusidic-acid-ophthalmic-508,594
+75608,"Ergometrine Maleate","Minerals in bone formation",ergometrine-maleate-425,1041
+75742,"Dextromethorphan + Pseudoephedrine + Triprolidine","Drugs used in Ano-rectal region",dextromethorphan-pseudoephedrine-triprolidine-346,786
+75830,"Carbonyl Iron + Folic Acid + Zinc Sulfate + Vitamin B Complex + Vitamin C","Centrally acting antihypertensive drugs (central sympatholytic)",carbonyl-iron-folic-acid-zinc-sulfate-vitamin-b-complex-vitamin-c-203,1493
+75834,"Camphor + Thymol + Menthol + Eucalyptus oil","Gonadotropin-releasing hormone (GnRH) antagonist",camphor-thymol-menthol-eucalyptus-oil-189,127
+75846,"Amiodarone Hydrochloride","Centrally acting Skeletal Muscle Relaxants",amiodarone-hydrochloride-59,862
+75847,"Labetalol Hydrochloride (Tablet)",labetalol-hydrochloride-tablet-651,"Alpha adrenoceptor blocking drugs",1287
+75913,"Diclofenac Sodium (Ophthalmic)","Prokinetic drugs",diclofenac-sodium-ophthalmic-359,1264
+76006,"Tocotrienol + Tocopherol","Specific combined vitamin preparations",tocotrienol-tocopherol-1842,728
+76215,"Balanced Salt Solution","Ophthalmic Anti-fungal Products",balanced-salt-solution-994,995
+76346,Celecoxib,"Central Depolarizing muscle relaxants",celecoxib-228,772
+76381,"Azelastine Hydrochloride (Nasal Spray)","Oral Retinoid preparations",azelastine-hydrochloride-nasal-spray-98,770
+76482,"Doxycycline Hydrochloride","Mydriatic and Cycloplegic agents",doxycycline-hydrochloride-394,647
+76599,Etoricoxib,"Topical antibiotics for Acne",etoricoxib-446,1177
+76646,Clarithromycin,Nicotine,clarithromycin-271,1032
+76743,Elagolix,"Vitamin-E Preparations",elagolix-1647,728
+76856,"Bepotastine Besilate","Oral electrolytes preparations",bepotastine-besilate-118,777
+77131,"Flaxseed oil [Linum Usitatissimum]","Non-Opioid Analgesics",flaxseed-oil-linum-usitatissimum-1491,158
+77319,"Benzoyl Peroxide","Vitamin-D preparations",benzoyl-peroxide-114,947
+77462,"Nux-vomica + Black Pepper + Long Pepper","Emollients & combined preparations",nux-vomica-black-pepper-long-pepper-1727,708
+77489,"Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C + Vitamin D3","Anti-emetic drugs",calcium-lactate-gluconate-calcium-carbonate-vitamin-c-vitamin-d3-175,9402
+77549,"L-Ornithine L-Aspartate",l-ornithine-l-aspartate-1440,"Digestive Enzyme",1106
+78123,"Cetalkonium Chloride + Choline Salicylate",Mecillinams,cetalkonium-chloride-choline-salicylate-233,1470
+78295,"Clonidine Hydrochloride","Growth hormone antagonist",clonidine-hydrochloride-285,1013
+78343,"Aluminium Chloride + Melaleuca Alternifolia Oil + Geothermal water","Meglitinide Analogues",aluminium-chloride-melaleuca-alternifolia-oil-geothermal-water-1829,307
+78443,"Ginkgo Biloba","Alpha-Glucosidase inhibitor",ginkgo-biloba-1511,83
+78522,"Isopropyl alcohol",isopropyl-alcohol-1823,"Other antibacterial preparation",541
+78551,Buzuri,"Emergency Contraceptive Pill",buzuri-1684,158
+78916,"Dantrolene Sodium","Drugs for reduction of serum phosphorus in patients with ESRD",dantrolene-sodium-319,502
+79096,"Chloramphenicol + Lidocaine Hydrochloride","Drugs for subcutaneous and mycoses",chloramphenicol-lidocaine-hydrochloride-243,847
+79219,Entecavir,"Anticavity Mouthwash",entecavir-413,1217
+79220,"Emblic Myrobalan + Chebulic + Belleric","Theophylline & related drugs",emblic-myrobalan-chebulic-belleric-1739,433
+79599,Bicalutamide,"Parenteral Iron Preparations",bicalutamide-1289,838
+79726,"Diabasic Sodium Phosphate + Monobasic Sodium Phosphate",Antacids,diabasic-sodium-phosphate-monobasic-sodium-phosphate-1260,501
+79786,Ethosuximide,"Bisphosphonate preparations",ethosuximide-443,1459
+79983,"Ketoprofen (Topical)",ketoprofen-topical-1773,"Non-steroidal Anti-inflammatory Drugs (NSAIDs)",821
+80004,Isoflurane,isoflurane-633,"General (Inhalation) anesthetics",1190
+80088,"Ganciclovir (Ophthalmic)","Dyslipidaemic Agents",ganciclovir-ophthalmic-513,1391
+80109,"Benzocaine + Camphor + Methanol + Phenol","Vitamin-B preparations",benzocaine-camphor-methanol-phenol-1254,832
+80129,Delafloxacin,"Non-steroidal Anti-inflammatory Drugs (NSAIDs)",delafloxacin-1975,1079
+80133,"Diloxanide Furoate","Anti-gallstones drugs: Bile Acids",diloxanide-furoate-367,1227
+80300,"Chlorpromazine Hydrochloride","Broad spectrum penicillins",chlorpromazine-hydrochloride-250,1328
+80435,"Ceftazidime Pentahydrate","General (Intravenous) anesthetics",ceftazidime-pentahydrate-223,557
+80501,"Antioxidants and Micronutrients","Ulcer protective",antioxidants-and-micronutrients-1666,383
+80554,Dacarbazine,"Combined cough suppressants",dacarbazine-1388,1427
+80637,ÃƒÅ½Ã‚Â²-Sitosterol,"Supplements & adjuvant therapy",ÃƒÅ½Ã‚Â²-sitosterol-1671,198
+80787,"Betamethasone Dipropionate + Salicylic Acid","Hydrocortisone & Combined preparations",betamethasone-dipropionate-salicylic-acid-1189,44
+80926,"Clotrimazole (Vaginal tablet)","Preparations for Oral Ulceration & Inflammation",clotrimazole-vaginal-tablet-291,1116
+80999,"Iron Polymaltose Complex",iron-polymaltose-complex-630,"Oral Iron preparations",972
+81037,Aravindasav,Nicotine,aravindasav-1745,226
+81071,"Glucosamine Sulfate + Chondroitin","Alpha and Beta-adrenergic agonist",glucosamine-sulfate-chondroitin-253,1230
+81088,"Fluorometholone + Tetrahydrozoline","Non-Benzodiazepine hypnotics",fluorometholone-tetrahydrozoline-1217,1480
+81100,Flibanserin,"Chlorhexidine & Chloroxylenol preparations",flibanserin-2048,826
+81187,Ashokarista,"Oxidising agent with antibacterial and antiviral properties",ashokarista-1757,723
+81210,"Amino Acid + D-Sorbitol + Electrolytes",Inotropic-sympathomimetics,amino-acid-d-sorbitol-electrolytes-55,783
+81246,Dapsone,"Multiple gynecological preparation",dapsone-1550,581
+81293,"Carboxymethylcellulose Sodium","Endothelin receptor antagonist",carboxymethylcellulose-sodium-205,1032
+81326,"Rhubarb + Ginger","Drugs used in diaper rash",rhubarb-ginger-1726,959
+81352,"Cefuroxime Axetil","Local & Surface anesthesia",cefuroxime-axetil-226,1289
+81752,Dexpanthenol,"Phlebotonic & Vascular protecting preparation",dexpanthenol-1565,856
+81776,"Citicoline Sodium","Haematopoietic Agents",citicoline-sodium-269,1362
+81792,Pechish,"Cholagogues, Cholelitholytics & Hepatic Protectors",pechish-1694,333
+81817,"Fluocinolone Acetonide + Hydroquinone + Tretinoin","Piperidinyl-benzisoxazole derivative",fluocinolone-acetonide-hydroquinone-tretinoin-478,1149
+81976,Bromazepam,"Anti neoplastic preparations",bromazepam-143,371
+82026,"Beclometasone Dipropionate + Formoterol Fumarate","Other ophthalmic preparations",beclometasone-dipropionate-formoterol-fumarate-1592,997
+82256,"Bempedoic acid","Topical Antibiotic preparations",bempedoic-acid-1967,203
+82565,Erythropoietin,"Hyperkalaemia Products",erythropoietin-429,783
+82815,"Lansoprazole + Amoxicillin + Clarithromycin",lansoprazole-amoxicillin-clarithromycin-76,"Anti H. pylori drugs",1092
+83011,"Carbonyl Iron + Folic Acid + Zinc Sulfate","Carbonic anhydrase inhibitor",carbonyl-iron-folic-acid-zinc-sulfate-202,707
+83020,"Ferrous Sulfate","Coal-tar preparations",ferrous-sulfate-465,1123
+83293,"Levodopa + Carbidopa + Entacapone",levodopa-carbidopa-entacapone-198,"Antiparkinson drugs",1069
+83300,Aceclofenac,"4-Quinolone preparations",aceclofenac-3,517
+83315,"Benzyl Penicillin","Intravenous fluid preparations",benzyl-penicillin-116,995
+83537,"Cinnarizine + Dimenhydrinate",Gadoversetamide,cinnarizine-dimenhydrinate-262,770
+83602,"Cod Liver Oil","Combination Insulin",cod-liver-oil-300,1424
+83856,"Calcium Lactate","Primary anti-epileptic drugs",calcium-lactate-185,2830
+84002,"Lamivudine + Zidovudine",lamivudine-zidovudine-655,"Drugs for HIV / Anti-retroviral drugs",643
+84177,"Loteprednol Etabonate + Tobramycin",loteprednol-etabonate-tobramycin-700,"Ophthalmic steroid - antibiotic combined preparations",764
+84333,"Domperidone Maleate",Anti-diarrhoeal,domperidone-maleate-380,816
+84343,"Fluorometholone Acetate","Anti-histamine Preparations",fluorometholone-acetate-482,1414
+84375,"Fluormetholone + Neomycin Sulphate","Benzodiazepine sedatives",fluormetholone-neomycin-sulphate-551,659
+84409,"Dextrose & Hartmann's Solution","Water purifying agent",dextrose-hartmanns-solution-179,757
+84413,"Folic Acid + Zinc Sulfate Monohydrate","Drugs used in meniere's diseases",folic-acid-zinc-sulfate-monohydrate-498,875
+84677,"Calamine + Zinc Oxide + Glycerine","Cerebral vasodilator & Neurosensory oxygenator drugs",calamine-zinc-oxide-glycerine-163,7569
+84857,"Choriogonadotropin Alpha","Eye Anti-Infectives & Antiseptics",choriogonadotropin-alpha-1176,1044
+84887,"Levodopa + Benserazide",levodopa-benserazide-1657,"Antiparkinson drugs",1418
+84940,"Atenolol + Chlorthalidone",Anti-diarrhoeal,atenolol-chlorthalidone-89,268
+84942,Danazol,"Selective vasopressin V2-receptor antagonist",danazol-318,1443
+85061,"Doxepin (Oral)","Drugs for corneal oedema",doxepin-oral-390,759
+85129,Bortezomib,"Benzoyl peroxide, Azelaic acid & other preparations",bortezomib-1387,870
+85184,"Calcium Pantothenate","Loop diuretics",calcium-pantothenate-187,1033
+85260,"Escitalopram Oxalate","Specific mineral preparations",escitalopram-oxalate-430,1079
+85316,"Sharbat Musaffi","Antioxidant vitamins & minerals for eye",sharbat-musaffi-1770,988
+85364,"Probiotic Combination [3.2 Billion]","Antacid with laxative action",probiotic-combination-32-billion-1887,656
+85441,Cilnidipine,"Contrast medium for diagnostic procedures",cilnidipine-1377,939
+85444,Dobutamine,"Osmotic purgatives",dobutamine-375,888
+85458,"Ethinyl Estradiol + Drospirenone (HRT)","Iron & Vitamin Combined preparations",ethinyl-estradiol-drospirenone-hrt-1635,573
+85476,"Andrographis paniculata","Farnesoid X Receptor Agonists",andrographis-paniculata-1523,257
+85548,"Betamethasone + Neomycin Sulphate (E/E)","Betamethasone & Combined preparations",betamethasone-neomycin-sulphate-ee-124,783
+85575,"Chlorhexidine Gluconate + Cetrimide","Tyrosine Kinase Inhibitor",chlorhexidine-gluconate-cetrimide-241,1119
+85589,Dasamularista,"Drugs affecting (inhibiting) gonadotrophin",dasamularista-1768,28
+85637,"Donepezil Hydrochloride","Anti-diarrhoeal Antimicrobial drugs",donepezil-hydrochloride-386,1387
+85654,Crotamiton,"Anticholinergic bronchodilators",crotamiton-306,1353
+85787,"Dabigatran Etexilate Mesylate","Combined cough expectorants",dabigatran-etexilate-mesylate-1304,1250
+85919,Habb-e-Nishat,"Vasodilator antihypertensive drugs",habb-e-nishat-1771,871
+86397,"Atorvastatin Calcium","Anti-motility drugs",atorvastatin-calcium-92,806
+86614,"Brinzolamide + Timolol","Topical retinoid and related preparations",brinzolamide-timolol-1282,753
+86654,"Chlorhexidine Gluconate [4%]","Salmon Calcitonin",chlorhexidine-gluconate-4-1494,532
+86760,"Aloe + Black Pepper + Henbane",Echinocandins,aloe-black-pepper-henbane-1705,1007
+86805,Leflunomide,leflunomide-668,"Drugs used for Rheumatoid Arthritis",1230
+86826,Ertapenem,"Drugs for Osteoarthritis",ertapenem-1262,971
+86837,"Lasmiditan Hemisuccinate",lasmiditan-hemisuccinate-2072,"Other drugs for migraine",1439
+86959,"Ciclopirox Olamine (Cream)",Glycopeptide,ciclopirox-olamine-cream-293,584
+87117,"Emollient [Cepalin+Allantoin]","Intravenous fluid preparations",emollient-cepalinallantoin-415,839
+87288,"Herbal cough syrup [Vasakarista]","Drugs for reduction of serum phosphorus in patients with ESRD",herbal-cough-syrup-vasakarista-1740,115
+87418,Ceritinib,"Other antibacterial preparation",ceritinib-1640,1257
+87431,"Amoxicillin + Clavulanic Acid",Fibrates,amoxicillin-clavulanic-acid-70,595
+87603,Saribadyarista,"Nasal Anti-cholinergic (Anti- muscarinic) Preparations",saribadyarista-1763,456
+87624,"Sanjivani Rasayan","Mast Cell Stabiliser",sanjivani-rasayan-1764,870
+87659,"Betamethasone Dipropionate","Fluticasone & combined preparations topical",betamethasone-dipropionate-123,157
+87748,Jirakaddarista,"Urinary Alkalinizing Agent",jirakaddarista-1755,465
+87779,"Camphor + Menthol + Oil Clove + Oil Eucalyptus + Oil Turpentine","Potassium-sparing diuretics",camphor-menthol-oil-clove-oil-eucalyptus-oil-turpentine-246,570
+87851,"Dicycloverine Hydrochloride","H2 receptor antagonist",dicycloverine-hydrochloride-361,1419
+88032,"St. JohnÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Wort","Drugs for Dry eyes",st-johns-wort-1516,856
+88100,"Chlorhexidine hydrochloride + Nystatin",Aminoglycosides,chlorhexidine-hydrochloride-nystatin-1642,789
+88180,"Ispaghula Husk + Mebeverine Hydrochloride","Other genito-urinary preparations",ispaghula-husk-mebeverine-hydrochloride-1310,688
+88272,"Kabid Nawshadri","Drugs used in Gout",kabid-nawshadri-1706,227
+88565,Levocarnitine,levocarnitine-677,"Drugs for muscular energy metabolism",547
+88660,Cetuximab,"Second generation Cephalosporins",cetuximab-1290,828
+88717,Isoniazid,isoniazid-634,"Anti-Tubercular Chemotherapeutics",1439
+88746,Isradipine,isradipine-642,"Calcium-channel blockers",593
+88751,"Disopyramide Phosphate","Combined preparation for constipation",disopyramide-phosphate-373,842
+88834,Carisoprodol,"Cytotoxic immunosuppressants",carisoprodol-1437,1009
+88863,"Cinchocaine + Hydrocortisone + Neomycin + Esculin",Pyrrolopyrimidines,cinchocaine-hydrocortisone-neomycin-esculin-1224,1451
+88913,"Fusidic acid + Hydrocortisone","Potassium-sparing diuretics & Aldosterone antagonists",fusidic-acid-hydrocortisone-509,1260
+89183,"Clindamycin (Vaginal Cream)","Anabolic steroid (Androgens)",clindamycin-vaginal-cream-1834,1195
+89297,"Docusate Sodium (Oral)","Stool softener",docusate-sodium-oral-378,1118
+89351,Espand,"Cough expectorants & mucolytics",espand-1709,817
+89520,"Tart Cherry","Anti-oxidant Multivitamin Multimineral preparations",tart-cherry-1843,557
+89664,Dasatinib,"Synthetic analogue of ADH",dasatinib-1292,783
+89713,"Caffeine Citrate","Calcium-channel blockers",caffeine-citrate-2035,7176
+89715,"Sanoon Babla","Nasal Anti-histamine preparations",sanoon-babla-1691,225
+89733,"Betacarotene + Vitamin C + Vitamin E","Anti-fungal or anti-bacterial ear drops",betacarotene-vitamin-c-vitamin-e-120,81
+89807,"Betamethasone Valerate","Triamcinolone & Combined preparations",betamethasone-valerate-1615,464
+89931,"Albumin (Human)","Herbal and Nutraceuticals",albumin-human-545,956
+90165,"Dexamethasone + Chloramphenicol","Other drugs used for peptic ulcer disease",dexamethasone-chloramphenicol-238,902
+90167,Aflibercept,"Thyroid drugs & hormone",aflibercept-1287,800
+90540,"Diphtheria + Pertussis + Tetanus [DPT]","Ulcerative Colitis",diphtheria-pertussis-tetanus-dpt-1206,1291
+90558,"Clobetasol Propionate + Neomycin Sulphate + Nystatin","Calcium Regulator",clobetasol-propionate-neomycin-sulphate-nystatin-278,785
+90633,Glibenclamide,"Serotonin-norepinephrine reuptake inhibitor (SNRI)",glibenclamide-522,1481
+90747,"Desmopressin Acetate",Anticholinergics,desmopressin-acetate-1794,1201
+90848,"Daclatasvir + Sofosbuvir","Cough suppressant",daclatasvir-sofosbuvir-1302,792
+91110,"Finasteride [For Androgenic Alopecia]","Topical retinoid and related preparations",finasteride-for-androgenic-alopecia-1220,958
+91206,Acetazolamide,"Anti-Tubercular Antibiotics",acetazolamide-26,511
+91333,"Erythromycin (Oral)","Anti-oxidant Multivitamin preparations",erythromycin-oral-427,793
+91335,Bimatoprost,"Bisphosphonate preparations",bimatoprost-132,216
+91439,"Cyclosporine (Ophthalmic)","Methyl xanthine derivatives",cyclosporine-ophthalmic-1195,1459
+91498,"Fentanyl Citrate","Other scalp preparations",fentanyl-citrate-455,608
+91516,"Silymarin [Milk thistle]","Drugs for Age-Related Macular Degeneration (AMD)",silymarin-milk-thistle-987,400
+91517,Dulaglutide,"Ophthalmic Anti-fungal Products",dulaglutide-1599,847
+91563,"Benzocaine + Butamben + Tetracaine Hydrochloride","Vitamin-A preparations",benzocaine-butamben-tetracaine-hydrochloride-1470,256
+91581,Neem,"Coal-tar preparations",neem-1759,707
+91728,Acarbose,"Sedating Anti-histamine",acarbose-27,954
+91760,"Ceftazidime + Avibactam","General (Inhalation) anesthetics",ceftazidime-avibactam-2029,759
+91816,"Aushokarist [Saraca Indica]","Salmon Calcitonin",aushokarist-saraca-indica-1519,604
+91859,"Amoxicillin Trihydrate","Nicotinic acid group",amoxicillin-trihydrate-69,1133
+91908,"Diethylcarbamazine Citrate","Anti H. pylori drugs",diethylcarbamazine-citrate-363,1480
+91937,"Cefpirome Sulphate","Antihaemophilic factor",cefpirome-sulphate-219,638
+92133,"Hingastak Churna","Multiple gynecological preparation",hingastak-churna-1531,175
+92241,"Menthol + Camphor + Methyl Salicylate + Oleoresin Capsicum",Anticholinergics,menthol-camphor-methyl-salicylate-oleoresin-capsicum-1223,103
+92306,"Fluticasone Propionate (Topical)","Tricyclic & related anti-depressant drugs",fluticasone-propionate-topical-1341,1363
+92421,"Lactitol Monohydrate",lactitol-monohydrate-661,"Osmotic purgatives",936
+92550,Denosumab,"Centrally acting Skeletal Muscle Relaxants",denosumab-327,1055
+92739,Dipyridamole,"Bulk-forming laxatives",dipyridamole-371,1271
+92814,Alfacalcidol,Gadodiamide,alfacalcidol-40,533
+92829,"Ethinyl Estradiol + Lynestrenol (0.05 mg)","Drugs for Haemolytic Hypoplastic & Renal Anemia",ethinyl-estradiol-lynestrenol-005-mg-1677,1118
+92914,"Adefovir Dipivoxil","Anti-malarial drugs",adefovir-dipivoxil-15,521
+92926,"Cetirizine Hydrochloride (Ophthalmic)","Other beta-lactam Antibiotics",cetirizine-hydrochloride-ophthalmic-1477,556
+93148,"Amlodipine Besilate + Atenolol","Topical anti-inflammatory preparations",amlodipine-besilate-atenolol-63,246
+93384,"Curcuminoids [Curcuma Longa]","Hormone preparations for other uses",curcuminoids-curcuma-longa-1534,568
+93398,Flupentixol,"Tricyclic Anti-depressant",flupentixol-484,1155
+93537,"Prasarani Sandhan",Aminosalicylates,prasarani-sandhan-1762,329
+93599,"Fluorescein Sodium","Benzodiazepine hypnotics",fluorescein-sodium-481,644
+93697,"Azelastine Hydrochloride (Eye drop)","Prokinetic drugs",azelastine-hydrochloride-eye-drop-1679,131
+93846,"Clopidogrel + Aspirin","Trophic Hormones & Related Synthetic Drugs",clopidogrel-aspirin-86,1460
+93905,"Cefuroxime Axetil + Clavulanic Acid","Regional anesthesia",cefuroxime-axetil-clavulanic-acid-227,1331
+93912,Penitab,"Digestive Enzyme",penitab-1689,518
+94148,"Herbal Multivitamin","Haemodialysis solutions",herbal-multivitamin-1690,238
+94322,"Fluphenazine + Nortriptyline","Calcium-channel blockers",fluphenazine-nortriptyline-487,1439
+94389,"Degarelix Acetate","Drugs used for Rheumatoid Arthritis",degarelix-acetate-1795,1081
+94531,"Amlodipine Besilate + Valsartan","Cromoglycate & related drugs",amlodipine-besilate-valsartan-67,235
+94775,Larotrectinib,larotrectinib-1894,,1190
+94781,"Diphtheria, Tetanus, Pertussis, Hepatitis B, Poliomyelitis, Influenzae Vaccine","Abdominal gas adsorbent preparations",diphtheria-tetanus-pertussis-hepatitis-b-poliomyelitis-influenzae-vaccine-1973,895
+94846,"Clindamycin + Tretinoin","Female Sex hormones",clindamycin-tretinoin-275,1117
+94928,"Jogaraj Guggulu","Disease-modifying antirheumatic drugs (DMARDs)",jogaraj-guggulu-1521,93
+95137,"Fenticonazole Nitrate [Vaginal Cream]","Anti-infective & Anesthetic combined preparations",fenticonazole-nitrate-vaginal-cream-458,1270
+95265,"Epoetin Beta","Nasal Decongestants & Other Nasal Preparations",epoetin-beta-423,836
+95314,"Liquorice + Cascara Sagrada + Belladona",Antacids,liquorice-cascara-sagrada-belladona-1710,174
+95383,"Betaxolol Hydrochloride","Iron & Vitamin Combined preparations",betaxolol-hydrochloride-130,940
+95512,Levobunolol,levobunolol-1259,"Drugs for miotics and glaucoma",594
+95593,Levonorgestrel,levonorgestrel-681,"Emergency Contraceptive Pill",1487
+95678,Garlitab,"Preparations for Oral Ulceration & Inflammation",garlitab-1683,449
+95696,"Amorolfine Hydrochloride (cream)","Leukotriene receptor antagonists",amorolfine-hydrochloride-cream-1648,971
+95875,"Fluticasone Propionate + Formoterol Fumarate","Adjunct anti-epileptic drugs",fluticasone-propionate-formoterol-fumarate-1460,593
+96015,"Fluorometholone + Gentamicin","Miscellaneous sedatives & hypnotics",fluorometholone-gentamicin-1216,972
+96052,"Beclomethasone Dipropionate (Inhaler)","Ophthalmic Steroid preparations",beclomethasone-dipropionate-inhaler-109,481
+96115,"Glucosamine Sulfate + Diacerein","Angiotensin-converting enzyme (ACE) inhibitors",glucosamine-sulfate-diacerein-354,1068
+96188,"Ceftibuten Dihydrate","Non opioid analgesics",ceftibuten-dihydrate-224,669
+96204,"Lidocaine Hydrochloride (Jelly)",lidocaine-hydrochloride-jelly-1629,"Local & Surface anesthesia",972
+96229,"Alpha Lipoic Acid","Calcium-channel blockers",alpha-lipoic-acid-2054,621
+96298,Marwareedi,"Anti H. pylori drugs",marwareedi-1687,520
+96341,"Amino Acid Keto Analogues","Osmotic diuretics",amino-acid-keto-analogues-1662,1190
+96531,"Levofloxacin (Ophthalmic)",levofloxacin-ophthalmic-1313,"4-Quinolone preparations",821
+96668,"Glycopyrronium Bromide (Inhalation capsule)","Endothelin receptor antagonist",glycopyrronium-bromide-inhalation-capsule-1466,547
+96767,"Calcitriol + Calcium Citrate",Statins,calcitriol-calcium-citrate-166,836
+96998,"Epirubicin Hydrochloride","Nasal Anti-histamine preparations",epirubicin-hydrochloride-420,965
+97030,"Saw Palmetto (160 mg)","Nasal Decongestants & Other Nasal Preparations",saw-palmetto-160-mg-1532,574
+97248,"Clotrimazole + Hydrocortisone","Alpha-Glucosidase inhibitor",clotrimazole-hydrocortisone-290,1488
+97256,"Herbal cough syrup [Adhatoda Vasica]","Dyslipidaemic Agents",herbal-cough-syrup-adhatoda-vasica-1515,1073
+97398,"Fludarabine Phosphate","Acne treatment preparations",fludarabine-phosphate-1258,787
+97461,Eptifibatide,"Nasal non-steroid Preparation",eptifibatide-424,1113
+97600,"Lavendar [Lavendula stoechas]","Drugs used in substance dependence",lavendar-lavendula-stoechas-1697,5871
+97744,"Aloe indica+ Hyoscyamus niger + Piper nigrum",lopamidol,aloe-indica-hyoscyamus-niger-piper-nigrum-1742,16
+97745,"Cefazolin Sodium","Other adrenoceptor stimulants",cefazolin-sodium-1454,1027
+97802,"Leuprorelin Acetate",leuprorelin-acetate-673,"Drugs acting on the Uterus",1070
+97909,Everolimus,"Topical urea preparations",everolimus-457,826
+98082,Mumshik,"Chelating complex",mumshik-1696,267
+98124,"Acyclovir + Hydrocortisone","Intracellular antibiotic",acyclovir-hydrocortisone-10,29
+98158,Cefprozil,"Calcium-channel blockers",cefprozil-1850,705
+98488,"Ferrous Ascorbate + Folic Acid + Zinc Sulfate","Local Antipruritic",ferrous-ascorbate-folic-acid-zinc-sulfate-461,734
+98830,Amisulpride,"Drugs used in Cerebral Palsy",amisulpride-1649,79
+99040,"Light Liquid Paraffin + White Soft Paraffin + Glycerine",light-liquid-paraffin-white-soft-paraffin-glycerine-1778,"Emollients & combined preparations",797
+99356,"Calcium Dobesilate","Serotonin-norepinephrine reuptake inhibitor (SNRI)",calcium-dobesilate-1438,3910
+99363,"Glucosamine Sulfate + Chondroitin + Camphor + Peppermint oil","Alpha and Beta-adrenergic agonist",glucosamine-sulfate-chondroitin-camphor-peppermint-oil-1613,881
+99695,"Coagulation Factor VIIa [Eptacog Alfa]","Meglitinide Analogues",coagulation-factor-viia-eptacog-alfa-1244,551
+99716,"Anti-Thymocyte Globulin","Prostaglandin analogues",anti-thymocyte-globulin-1560,533
+99771,"Bismuth Subsalicylate","Zinc & Combined preparations",bismuth-subsalicylate-134,101
+99833,"Dextran + Dextrose","Prevention of repeated kidney stone formation",dextran-dextrose-349,669
+99856,"Nimbadi Churna","Drugs affecting the immune response",nimbadi-churna-1760,767
