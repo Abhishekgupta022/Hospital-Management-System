@@ -60,12 +60,7 @@ CREATE TABLE lab (
   FOREIGN KEY (test_code) REFERENCES testprice (test_code) ON DELETE SET NULL
 );
 
--- -----------------------------------------------------------------------------------------------------
-create table lab(labno int primary key , p_id bigint , test_code varchar(5), p_height_cm int, p_weight_kg int,
- p_lab_date date, p_bp int not null , p_blood_grp varchar(5), 
- foreign key(p_id) references patient(p_id)   on delete set null ,
- foreign key (test_code) references testprice(test_code) on delete set null 
-  );
+
   -- --------------------------------------------------------------------------------------
  CREATE TABLE patient_report (
   report_id INT PRIMARY KEY,
